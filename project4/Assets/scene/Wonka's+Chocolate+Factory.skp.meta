@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: b66df80eb5a5c4ce9a3e934d7f92d5f8
+timeCreated: 1460832533
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f00000020000000210000002200000023000000240000002500000026000000270000002800000029000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 9889e1162f63367d846a8673adfa8477
+  longitude: 2.183
+  latitude: 41.383
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 34.445282, y: 67.03173, z: -180.06949}
+      lookAt: {x: 431.05875, y: 262.75174, z: 1010.8565}
+      up: {x: -0.048678663, y: 0.98806125, z: -0.14616923}
+      fov: 57.249928
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: A
+    100002: A 1
+    100004: K
+    100006: K 1
+    100008: N
+    100010: N 1
+    100012: O
+    100014: O 1
+    100016: SimpleDome02
+    100018: SimpleDome02 1
+    100020: SimpleDome02 2
+    100022: SimpleDome02 3
+    100024: W
+    100026: W 1
+    100028: Wonka column
+    100030: Wonka column 1
+    100032: Wonka column 2
+    100034: Wonka column 3
+    100036: Wonka column 4
+    100038: Wonka column 5
+    100040: //RootNode
+    100042: Wonka's+Chocolate+Factory_MeshPart0
+    100044: Wonka's+Chocolate+Factory_MeshPart1
+    100046: Wonka's+Chocolate+Factory_MeshPart2
+    400000: A
+    400002: A 1
+    400004: K
+    400006: K 1
+    400008: N
+    400010: N 1
+    400012: O
+    400014: O 1
+    400016: SimpleDome02
+    400018: SimpleDome02 1
+    400020: SimpleDome02 2
+    400022: SimpleDome02 3
+    400024: W
+    400026: W 1
+    400028: Wonka column
+    400030: Wonka column 1
+    400032: Wonka column 2
+    400034: Wonka column 3
+    400036: Wonka column 4
+    400038: Wonka column 5
+    400040: //RootNode
+    400042: Wonka's+Chocolate+Factory_MeshPart0
+    400044: Wonka's+Chocolate+Factory_MeshPart1
+    400046: Wonka's+Chocolate+Factory_MeshPart2
+    2300000: A
+    2300002: A 1
+    2300004: K
+    2300006: K 1
+    2300008: N
+    2300010: N 1
+    2300012: O
+    2300014: O 1
+    2300016: SimpleDome02
+    2300018: SimpleDome02 1
+    2300020: SimpleDome02 2
+    2300022: SimpleDome02 3
+    2300024: W
+    2300026: W 1
+    2300028: Wonka column
+    2300030: Wonka column 1
+    2300032: Wonka column 2
+    2300034: Wonka column 3
+    2300036: Wonka column 4
+    2300038: Wonka column 5
+    2300040: Wonka's+Chocolate+Factory_MeshPart0
+    2300042: Wonka's+Chocolate+Factory_MeshPart1
+    2300044: Wonka's+Chocolate+Factory_MeshPart2
+    3300000: A
+    3300002: A 1
+    3300004: K
+    3300006: K 1
+    3300008: N
+    3300010: N 1
+    3300012: O
+    3300014: O 1
+    3300016: SimpleDome02
+    3300018: SimpleDome02 1
+    3300020: SimpleDome02 2
+    3300022: SimpleDome02 3
+    3300024: W
+    3300026: W 1
+    3300028: Wonka column
+    3300030: Wonka column 1
+    3300032: Wonka column 2
+    3300034: Wonka column 3
+    3300036: Wonka column 4
+    3300038: Wonka column 5
+    3300040: Wonka's+Chocolate+Factory_MeshPart0
+    3300042: Wonka's+Chocolate+Factory_MeshPart1
+    3300044: Wonka's+Chocolate+Factory_MeshPart2
+    4300000: Mesh Wonka's+Chocolate+Factory_MeshPart0
+    4300002: Mesh Wonka's+Chocolate+Factory_MeshPart1
+    4300004: Mesh Wonka's+Chocolate+Factory_MeshPart2
+    4300006: Mesh SimpleDome02
+    4300008: Mesh W
+    4300010: Mesh O
+    4300012: Mesh N
+    4300014: Mesh K
+    4300016: Mesh A
+    4300018: Mesh Wonka column
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

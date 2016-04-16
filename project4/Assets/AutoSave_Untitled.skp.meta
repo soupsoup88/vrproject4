@@ -1,0 +1,1154 @@
+fileFormatVersion: 2
+guid: ad1cd074008474442a0e0b6605d36a09
+timeCreated: 1460832698
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f02000010020000
+  assetHash:
+    serializedVersion: 2
+    Hash: e7ec8b839446408da13739bb7e80daf1
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 52.397057, y: 30.928131, z: 3.8074021}
+      lookAt: {x: 35.808296, y: 15.302768, z: 12.909156}
+      up: {x: -0.5582408, y: 0.7710731, z: 0.30628994}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: branch section 3
+    100004: branch section 3 1
+    100006: branch section 3 10
+    100008: branch section 3 11
+    100010: branch section 3 12
+    100012: branch section 3 13
+    100014: branch section 3 14
+    100016: branch section 3 15
+    100018: branch section 3 16
+    100020: branch section 3 17
+    100022: branch section 3 18
+    100024: branch section 3 19
+    100026: branch section 3 2
+    100028: branch section 3 20
+    100030: branch section 3 21
+    100032: branch section 3 22
+    100034: branch section 3 23
+    100036: branch section 3 24
+    100038: branch section 3 25
+    100040: branch section 3 26
+    100042: branch section 3 27
+    100044: branch section 3 28
+    100046: branch section 3 29
+    100048: branch section 3 3
+    100050: branch section 3 30
+    100052: branch section 3 31
+    100054: branch section 3 32
+    100056: branch section 3 33
+    100058: branch section 3 34
+    100060: branch section 3 35
+    100062: branch section 3 36
+    100064: branch section 3 37
+    100066: branch section 3 38
+    100068: branch section 3 39
+    100070: branch section 3 4
+    100072: branch section 3 40
+    100074: branch section 3 41
+    100076: branch section 3 42
+    100078: branch section 3 43
+    100080: branch section 3 44
+    100082: branch section 3 45
+    100084: branch section 3 46
+    100086: branch section 3 47
+    100088: branch section 3 48
+    100090: branch section 3 49
+    100092: branch section 3 5
+    100094: branch section 3 50
+    100096: branch section 3 51
+    100098: branch section 3 52
+    100100: branch section 3 53
+    100102: branch section 3 54
+    100104: branch section 3 55
+    100106: branch section 3 56
+    100108: branch section 3 57
+    100110: branch section 3 58
+    100112: branch section 3 59
+    100114: branch section 3 6
+    100116: branch section 3 60
+    100118: branch section 3 61
+    100120: branch section 3 62
+    100122: branch section 3 63
+    100124: branch section 3 64
+    100126: branch section 3 65
+    100128: branch section 3 66
+    100130: branch section 3 67
+    100132: branch section 3 68
+    100134: branch section 3 69
+    100136: branch section 3 7
+    100138: branch section 3 70
+    100140: branch section 3 71
+    100142: branch section 3 72
+    100144: branch section 3 73
+    100146: branch section 3 74
+    100148: branch section 3 75
+    100150: branch section 3 76
+    100152: branch section 3 77
+    100154: branch section 3 78
+    100156: branch section 3 79
+    100158: branch section 3 8
+    100160: branch section 3 80
+    100162: branch section 3 81
+    100164: branch section 3 82
+    100166: branch section 3 83
+    100168: branch section 3 84
+    100170: branch section 3 85
+    100172: branch section 3 86
+    100174: branch section 3 87
+    100176: branch section 3 88
+    100178: branch section 3 89
+    100180: branch section 3 9
+    100182: branch section 3 90
+    100184: branch section 3 91
+    100186: branch section 3 92
+    100188: branch section 3 93
+    100190: branch section 3 94
+    100192: branch section 3 95
+    100194: branch section 3 96
+    100196: branch section 3 97
+    100198: branch section#1
+    100200: branch section#1 1
+    100202: branch section#1 10
+    100204: branch section#1 100
+    100206: branch section#1 101
+    100208: branch section#1 102
+    100210: branch section#1 103
+    100212: branch section#1 104
+    100214: branch section#1 105
+    100216: branch section#1 106
+    100218: branch section#1 107
+    100220: branch section#1 108
+    100222: branch section#1 109
+    100224: branch section#1 11
+    100226: branch section#1 110
+    100228: branch section#1 111
+    100230: branch section#1 112
+    100232: branch section#1 113
+    100234: branch section#1 114
+    100236: branch section#1 115
+    100238: branch section#1 116
+    100240: branch section#1 117
+    100242: branch section#1 118
+    100244: branch section#1 119
+    100246: branch section#1 12
+    100248: branch section#1 120
+    100250: branch section#1 121
+    100252: branch section#1 122
+    100254: branch section#1 123
+    100256: branch section#1 124
+    100258: branch section#1 125
+    100260: branch section#1 126
+    100262: branch section#1 127
+    100264: branch section#1 128
+    100266: branch section#1 129
+    100268: branch section#1 13
+    100270: branch section#1 130
+    100272: branch section#1 131
+    100274: branch section#1 132
+    100276: branch section#1 133
+    100278: branch section#1 134
+    100280: branch section#1 135
+    100282: branch section#1 136
+    100284: branch section#1 137
+    100286: branch section#1 138
+    100288: branch section#1 139
+    100290: branch section#1 14
+    100292: branch section#1 140
+    100294: branch section#1 141
+    100296: branch section#1 142
+    100298: branch section#1 143
+    100300: branch section#1 144
+    100302: branch section#1 145
+    100304: branch section#1 146
+    100306: branch section#1 147
+    100308: branch section#1 148
+    100310: branch section#1 149
+    100312: branch section#1 15
+    100314: branch section#1 150
+    100316: branch section#1 151
+    100318: branch section#1 152
+    100320: branch section#1 153
+    100322: branch section#1 16
+    100324: branch section#1 17
+    100326: branch section#1 18
+    100328: branch section#1 19
+    100330: branch section#1 2
+    100332: branch section#1 20
+    100334: branch section#1 21
+    100336: branch section#1 22
+    100338: branch section#1 23
+    100340: branch section#1 24
+    100342: branch section#1 25
+    100344: branch section#1 26
+    100346: branch section#1 27
+    100348: branch section#1 28
+    100350: branch section#1 29
+    100352: branch section#1 3
+    100354: branch section#1 30
+    100356: branch section#1 31
+    100358: branch section#1 32
+    100360: branch section#1 33
+    100362: branch section#1 34
+    100364: branch section#1 35
+    100366: branch section#1 36
+    100368: branch section#1 37
+    100370: branch section#1 38
+    100372: branch section#1 39
+    100374: branch section#1 4
+    100376: branch section#1 40
+    100378: branch section#1 41
+    100380: branch section#1 42
+    100382: branch section#1 43
+    100384: branch section#1 44
+    100386: branch section#1 45
+    100388: branch section#1 46
+    100390: branch section#1 47
+    100392: branch section#1 48
+    100394: branch section#1 49
+    100396: branch section#1 5
+    100398: branch section#1 50
+    100400: branch section#1 51
+    100402: branch section#1 52
+    100404: branch section#1 53
+    100406: branch section#1 54
+    100408: branch section#1 55
+    100410: branch section#1 56
+    100412: branch section#1 57
+    100414: branch section#1 58
+    100416: branch section#1 59
+    100418: branch section#1 6
+    100420: branch section#1 60
+    100422: branch section#1 61
+    100424: branch section#1 62
+    100426: branch section#1 63
+    100428: branch section#1 64
+    100430: branch section#1 65
+    100432: branch section#1 66
+    100434: branch section#1 67
+    100436: branch section#1 68
+    100438: branch section#1 69
+    100440: branch section#1 7
+    100442: branch section#1 70
+    100444: branch section#1 71
+    100446: branch section#1 72
+    100448: branch section#1 73
+    100450: branch section#1 74
+    100452: branch section#1 75
+    100454: branch section#1 76
+    100456: branch section#1 77
+    100458: branch section#1 78
+    100460: branch section#1 79
+    100462: branch section#1 8
+    100464: branch section#1 80
+    100466: branch section#1 81
+    100468: branch section#1 82
+    100470: branch section#1 83
+    100472: branch section#1 84
+    100474: branch section#1 85
+    100476: branch section#1 86
+    100478: branch section#1 87
+    100480: branch section#1 88
+    100482: branch section#1 89
+    100484: branch section#1 9
+    100486: branch section#1 90
+    100488: branch section#1 91
+    100490: branch section#1 92
+    100492: branch section#1 93
+    100494: branch section#1 94
+    100496: branch section#1 95
+    100498: branch section#1 96
+    100500: branch section#1 97
+    100502: branch section#1 98
+    100504: branch section#1 99
+    100506: Bryce
+    100508: trunk
+    100510: trunk 1
+    100512: trunk 2
+    100514: trunk 3
+    100516: trunk 4
+    100518: trunk 5
+    100520: trunk 6
+    100522: V_Tree_Evergreen_31'
+    100524: V_Tree_Evergreen_31' 1
+    100526: V_Tree_Evergreen_31' 2
+    100528: V_Tree_Evergreen_31' 3
+    100530: V_Tree_Evergreen_31' 4
+    100532: V_Tree_Evergreen_31' 5
+    100534: V_Tree_Evergreen_31' 6
+    400000: //RootNode
+    400002: branch section 3
+    400004: branch section 3 1
+    400006: branch section 3 10
+    400008: branch section 3 11
+    400010: branch section 3 12
+    400012: branch section 3 13
+    400014: branch section 3 14
+    400016: branch section 3 15
+    400018: branch section 3 16
+    400020: branch section 3 17
+    400022: branch section 3 18
+    400024: branch section 3 19
+    400026: branch section 3 2
+    400028: branch section 3 20
+    400030: branch section 3 21
+    400032: branch section 3 22
+    400034: branch section 3 23
+    400036: branch section 3 24
+    400038: branch section 3 25
+    400040: branch section 3 26
+    400042: branch section 3 27
+    400044: branch section 3 28
+    400046: branch section 3 29
+    400048: branch section 3 3
+    400050: branch section 3 30
+    400052: branch section 3 31
+    400054: branch section 3 32
+    400056: branch section 3 33
+    400058: branch section 3 34
+    400060: branch section 3 35
+    400062: branch section 3 36
+    400064: branch section 3 37
+    400066: branch section 3 38
+    400068: branch section 3 39
+    400070: branch section 3 4
+    400072: branch section 3 40
+    400074: branch section 3 41
+    400076: branch section 3 42
+    400078: branch section 3 43
+    400080: branch section 3 44
+    400082: branch section 3 45
+    400084: branch section 3 46
+    400086: branch section 3 47
+    400088: branch section 3 48
+    400090: branch section 3 49
+    400092: branch section 3 5
+    400094: branch section 3 50
+    400096: branch section 3 51
+    400098: branch section 3 52
+    400100: branch section 3 53
+    400102: branch section 3 54
+    400104: branch section 3 55
+    400106: branch section 3 56
+    400108: branch section 3 57
+    400110: branch section 3 58
+    400112: branch section 3 59
+    400114: branch section 3 6
+    400116: branch section 3 60
+    400118: branch section 3 61
+    400120: branch section 3 62
+    400122: branch section 3 63
+    400124: branch section 3 64
+    400126: branch section 3 65
+    400128: branch section 3 66
+    400130: branch section 3 67
+    400132: branch section 3 68
+    400134: branch section 3 69
+    400136: branch section 3 7
+    400138: branch section 3 70
+    400140: branch section 3 71
+    400142: branch section 3 72
+    400144: branch section 3 73
+    400146: branch section 3 74
+    400148: branch section 3 75
+    400150: branch section 3 76
+    400152: branch section 3 77
+    400154: branch section 3 78
+    400156: branch section 3 79
+    400158: branch section 3 8
+    400160: branch section 3 80
+    400162: branch section 3 81
+    400164: branch section 3 82
+    400166: branch section 3 83
+    400168: branch section 3 84
+    400170: branch section 3 85
+    400172: branch section 3 86
+    400174: branch section 3 87
+    400176: branch section 3 88
+    400178: branch section 3 89
+    400180: branch section 3 9
+    400182: branch section 3 90
+    400184: branch section 3 91
+    400186: branch section 3 92
+    400188: branch section 3 93
+    400190: branch section 3 94
+    400192: branch section 3 95
+    400194: branch section 3 96
+    400196: branch section 3 97
+    400198: branch section#1
+    400200: branch section#1 1
+    400202: branch section#1 10
+    400204: branch section#1 100
+    400206: branch section#1 101
+    400208: branch section#1 102
+    400210: branch section#1 103
+    400212: branch section#1 104
+    400214: branch section#1 105
+    400216: branch section#1 106
+    400218: branch section#1 107
+    400220: branch section#1 108
+    400222: branch section#1 109
+    400224: branch section#1 11
+    400226: branch section#1 110
+    400228: branch section#1 111
+    400230: branch section#1 112
+    400232: branch section#1 113
+    400234: branch section#1 114
+    400236: branch section#1 115
+    400238: branch section#1 116
+    400240: branch section#1 117
+    400242: branch section#1 118
+    400244: branch section#1 119
+    400246: branch section#1 12
+    400248: branch section#1 120
+    400250: branch section#1 121
+    400252: branch section#1 122
+    400254: branch section#1 123
+    400256: branch section#1 124
+    400258: branch section#1 125
+    400260: branch section#1 126
+    400262: branch section#1 127
+    400264: branch section#1 128
+    400266: branch section#1 129
+    400268: branch section#1 13
+    400270: branch section#1 130
+    400272: branch section#1 131
+    400274: branch section#1 132
+    400276: branch section#1 133
+    400278: branch section#1 134
+    400280: branch section#1 135
+    400282: branch section#1 136
+    400284: branch section#1 137
+    400286: branch section#1 138
+    400288: branch section#1 139
+    400290: branch section#1 14
+    400292: branch section#1 140
+    400294: branch section#1 141
+    400296: branch section#1 142
+    400298: branch section#1 143
+    400300: branch section#1 144
+    400302: branch section#1 145
+    400304: branch section#1 146
+    400306: branch section#1 147
+    400308: branch section#1 148
+    400310: branch section#1 149
+    400312: branch section#1 15
+    400314: branch section#1 150
+    400316: branch section#1 151
+    400318: branch section#1 152
+    400320: branch section#1 153
+    400322: branch section#1 16
+    400324: branch section#1 17
+    400326: branch section#1 18
+    400328: branch section#1 19
+    400330: branch section#1 2
+    400332: branch section#1 20
+    400334: branch section#1 21
+    400336: branch section#1 22
+    400338: branch section#1 23
+    400340: branch section#1 24
+    400342: branch section#1 25
+    400344: branch section#1 26
+    400346: branch section#1 27
+    400348: branch section#1 28
+    400350: branch section#1 29
+    400352: branch section#1 3
+    400354: branch section#1 30
+    400356: branch section#1 31
+    400358: branch section#1 32
+    400360: branch section#1 33
+    400362: branch section#1 34
+    400364: branch section#1 35
+    400366: branch section#1 36
+    400368: branch section#1 37
+    400370: branch section#1 38
+    400372: branch section#1 39
+    400374: branch section#1 4
+    400376: branch section#1 40
+    400378: branch section#1 41
+    400380: branch section#1 42
+    400382: branch section#1 43
+    400384: branch section#1 44
+    400386: branch section#1 45
+    400388: branch section#1 46
+    400390: branch section#1 47
+    400392: branch section#1 48
+    400394: branch section#1 49
+    400396: branch section#1 5
+    400398: branch section#1 50
+    400400: branch section#1 51
+    400402: branch section#1 52
+    400404: branch section#1 53
+    400406: branch section#1 54
+    400408: branch section#1 55
+    400410: branch section#1 56
+    400412: branch section#1 57
+    400414: branch section#1 58
+    400416: branch section#1 59
+    400418: branch section#1 6
+    400420: branch section#1 60
+    400422: branch section#1 61
+    400424: branch section#1 62
+    400426: branch section#1 63
+    400428: branch section#1 64
+    400430: branch section#1 65
+    400432: branch section#1 66
+    400434: branch section#1 67
+    400436: branch section#1 68
+    400438: branch section#1 69
+    400440: branch section#1 7
+    400442: branch section#1 70
+    400444: branch section#1 71
+    400446: branch section#1 72
+    400448: branch section#1 73
+    400450: branch section#1 74
+    400452: branch section#1 75
+    400454: branch section#1 76
+    400456: branch section#1 77
+    400458: branch section#1 78
+    400460: branch section#1 79
+    400462: branch section#1 8
+    400464: branch section#1 80
+    400466: branch section#1 81
+    400468: branch section#1 82
+    400470: branch section#1 83
+    400472: branch section#1 84
+    400474: branch section#1 85
+    400476: branch section#1 86
+    400478: branch section#1 87
+    400480: branch section#1 88
+    400482: branch section#1 89
+    400484: branch section#1 9
+    400486: branch section#1 90
+    400488: branch section#1 91
+    400490: branch section#1 92
+    400492: branch section#1 93
+    400494: branch section#1 94
+    400496: branch section#1 95
+    400498: branch section#1 96
+    400500: branch section#1 97
+    400502: branch section#1 98
+    400504: branch section#1 99
+    400506: Bryce
+    400508: trunk
+    400510: trunk 1
+    400512: trunk 2
+    400514: trunk 3
+    400516: trunk 4
+    400518: trunk 5
+    400520: trunk 6
+    400522: V_Tree_Evergreen_31'
+    400524: V_Tree_Evergreen_31' 1
+    400526: V_Tree_Evergreen_31' 2
+    400528: V_Tree_Evergreen_31' 3
+    400530: V_Tree_Evergreen_31' 4
+    400532: V_Tree_Evergreen_31' 5
+    400534: V_Tree_Evergreen_31' 6
+    2300000: //RootNode
+    2300002: branch section 3
+    2300004: branch section 3 1
+    2300006: branch section 3 10
+    2300008: branch section 3 11
+    2300010: branch section 3 12
+    2300012: branch section 3 13
+    2300014: branch section 3 14
+    2300016: branch section 3 15
+    2300018: branch section 3 16
+    2300020: branch section 3 17
+    2300022: branch section 3 18
+    2300024: branch section 3 19
+    2300026: branch section 3 2
+    2300028: branch section 3 20
+    2300030: branch section 3 21
+    2300032: branch section 3 22
+    2300034: branch section 3 23
+    2300036: branch section 3 24
+    2300038: branch section 3 25
+    2300040: branch section 3 26
+    2300042: branch section 3 27
+    2300044: branch section 3 28
+    2300046: branch section 3 29
+    2300048: branch section 3 3
+    2300050: branch section 3 30
+    2300052: branch section 3 31
+    2300054: branch section 3 32
+    2300056: branch section 3 33
+    2300058: branch section 3 34
+    2300060: branch section 3 35
+    2300062: branch section 3 36
+    2300064: branch section 3 37
+    2300066: branch section 3 38
+    2300068: branch section 3 39
+    2300070: branch section 3 4
+    2300072: branch section 3 40
+    2300074: branch section 3 41
+    2300076: branch section 3 42
+    2300078: branch section 3 43
+    2300080: branch section 3 44
+    2300082: branch section 3 45
+    2300084: branch section 3 46
+    2300086: branch section 3 47
+    2300088: branch section 3 48
+    2300090: branch section 3 49
+    2300092: branch section 3 5
+    2300094: branch section 3 50
+    2300096: branch section 3 51
+    2300098: branch section 3 52
+    2300100: branch section 3 53
+    2300102: branch section 3 54
+    2300104: branch section 3 55
+    2300106: branch section 3 56
+    2300108: branch section 3 57
+    2300110: branch section 3 58
+    2300112: branch section 3 59
+    2300114: branch section 3 6
+    2300116: branch section 3 60
+    2300118: branch section 3 61
+    2300120: branch section 3 62
+    2300122: branch section 3 63
+    2300124: branch section 3 64
+    2300126: branch section 3 65
+    2300128: branch section 3 66
+    2300130: branch section 3 67
+    2300132: branch section 3 68
+    2300134: branch section 3 69
+    2300136: branch section 3 7
+    2300138: branch section 3 70
+    2300140: branch section 3 71
+    2300142: branch section 3 72
+    2300144: branch section 3 73
+    2300146: branch section 3 74
+    2300148: branch section 3 75
+    2300150: branch section 3 76
+    2300152: branch section 3 77
+    2300154: branch section 3 78
+    2300156: branch section 3 79
+    2300158: branch section 3 8
+    2300160: branch section 3 80
+    2300162: branch section 3 81
+    2300164: branch section 3 82
+    2300166: branch section 3 83
+    2300168: branch section 3 84
+    2300170: branch section 3 85
+    2300172: branch section 3 86
+    2300174: branch section 3 87
+    2300176: branch section 3 88
+    2300178: branch section 3 89
+    2300180: branch section 3 9
+    2300182: branch section 3 90
+    2300184: branch section 3 91
+    2300186: branch section 3 92
+    2300188: branch section 3 93
+    2300190: branch section 3 94
+    2300192: branch section 3 95
+    2300194: branch section 3 96
+    2300196: branch section 3 97
+    2300198: branch section#1
+    2300200: branch section#1 1
+    2300202: branch section#1 10
+    2300204: branch section#1 100
+    2300206: branch section#1 101
+    2300208: branch section#1 102
+    2300210: branch section#1 103
+    2300212: branch section#1 104
+    2300214: branch section#1 105
+    2300216: branch section#1 106
+    2300218: branch section#1 107
+    2300220: branch section#1 108
+    2300222: branch section#1 109
+    2300224: branch section#1 11
+    2300226: branch section#1 110
+    2300228: branch section#1 111
+    2300230: branch section#1 112
+    2300232: branch section#1 113
+    2300234: branch section#1 114
+    2300236: branch section#1 115
+    2300238: branch section#1 116
+    2300240: branch section#1 117
+    2300242: branch section#1 118
+    2300244: branch section#1 119
+    2300246: branch section#1 12
+    2300248: branch section#1 120
+    2300250: branch section#1 121
+    2300252: branch section#1 122
+    2300254: branch section#1 123
+    2300256: branch section#1 124
+    2300258: branch section#1 125
+    2300260: branch section#1 126
+    2300262: branch section#1 127
+    2300264: branch section#1 128
+    2300266: branch section#1 129
+    2300268: branch section#1 13
+    2300270: branch section#1 130
+    2300272: branch section#1 131
+    2300274: branch section#1 132
+    2300276: branch section#1 133
+    2300278: branch section#1 134
+    2300280: branch section#1 135
+    2300282: branch section#1 136
+    2300284: branch section#1 137
+    2300286: branch section#1 138
+    2300288: branch section#1 139
+    2300290: branch section#1 14
+    2300292: branch section#1 140
+    2300294: branch section#1 141
+    2300296: branch section#1 142
+    2300298: branch section#1 143
+    2300300: branch section#1 144
+    2300302: branch section#1 145
+    2300304: branch section#1 146
+    2300306: branch section#1 147
+    2300308: branch section#1 148
+    2300310: branch section#1 149
+    2300312: branch section#1 15
+    2300314: branch section#1 150
+    2300316: branch section#1 151
+    2300318: branch section#1 152
+    2300320: branch section#1 153
+    2300322: branch section#1 16
+    2300324: branch section#1 17
+    2300326: branch section#1 18
+    2300328: branch section#1 19
+    2300330: branch section#1 2
+    2300332: branch section#1 20
+    2300334: branch section#1 21
+    2300336: branch section#1 22
+    2300338: branch section#1 23
+    2300340: branch section#1 24
+    2300342: branch section#1 25
+    2300344: branch section#1 26
+    2300346: branch section#1 27
+    2300348: branch section#1 28
+    2300350: branch section#1 29
+    2300352: branch section#1 3
+    2300354: branch section#1 30
+    2300356: branch section#1 31
+    2300358: branch section#1 32
+    2300360: branch section#1 33
+    2300362: branch section#1 34
+    2300364: branch section#1 35
+    2300366: branch section#1 36
+    2300368: branch section#1 37
+    2300370: branch section#1 38
+    2300372: branch section#1 39
+    2300374: branch section#1 4
+    2300376: branch section#1 40
+    2300378: branch section#1 41
+    2300380: branch section#1 42
+    2300382: branch section#1 43
+    2300384: branch section#1 44
+    2300386: branch section#1 45
+    2300388: branch section#1 46
+    2300390: branch section#1 47
+    2300392: branch section#1 48
+    2300394: branch section#1 49
+    2300396: branch section#1 5
+    2300398: branch section#1 50
+    2300400: branch section#1 51
+    2300402: branch section#1 52
+    2300404: branch section#1 53
+    2300406: branch section#1 54
+    2300408: branch section#1 55
+    2300410: branch section#1 56
+    2300412: branch section#1 57
+    2300414: branch section#1 58
+    2300416: branch section#1 59
+    2300418: branch section#1 6
+    2300420: branch section#1 60
+    2300422: branch section#1 61
+    2300424: branch section#1 62
+    2300426: branch section#1 63
+    2300428: branch section#1 64
+    2300430: branch section#1 65
+    2300432: branch section#1 66
+    2300434: branch section#1 67
+    2300436: branch section#1 68
+    2300438: branch section#1 69
+    2300440: branch section#1 7
+    2300442: branch section#1 70
+    2300444: branch section#1 71
+    2300446: branch section#1 72
+    2300448: branch section#1 73
+    2300450: branch section#1 74
+    2300452: branch section#1 75
+    2300454: branch section#1 76
+    2300456: branch section#1 77
+    2300458: branch section#1 78
+    2300460: branch section#1 79
+    2300462: branch section#1 8
+    2300464: branch section#1 80
+    2300466: branch section#1 81
+    2300468: branch section#1 82
+    2300470: branch section#1 83
+    2300472: branch section#1 84
+    2300474: branch section#1 85
+    2300476: branch section#1 86
+    2300478: branch section#1 87
+    2300480: branch section#1 88
+    2300482: branch section#1 89
+    2300484: branch section#1 9
+    2300486: branch section#1 90
+    2300488: branch section#1 91
+    2300490: branch section#1 92
+    2300492: branch section#1 93
+    2300494: branch section#1 94
+    2300496: branch section#1 95
+    2300498: branch section#1 96
+    2300500: branch section#1 97
+    2300502: branch section#1 98
+    2300504: branch section#1 99
+    2300506: Bryce
+    2300508: trunk
+    2300510: trunk 1
+    2300512: trunk 2
+    2300514: trunk 3
+    2300516: trunk 4
+    2300518: trunk 5
+    2300520: trunk 6
+    3300000: //RootNode
+    3300002: branch section 3
+    3300004: branch section 3 1
+    3300006: branch section 3 10
+    3300008: branch section 3 11
+    3300010: branch section 3 12
+    3300012: branch section 3 13
+    3300014: branch section 3 14
+    3300016: branch section 3 15
+    3300018: branch section 3 16
+    3300020: branch section 3 17
+    3300022: branch section 3 18
+    3300024: branch section 3 19
+    3300026: branch section 3 2
+    3300028: branch section 3 20
+    3300030: branch section 3 21
+    3300032: branch section 3 22
+    3300034: branch section 3 23
+    3300036: branch section 3 24
+    3300038: branch section 3 25
+    3300040: branch section 3 26
+    3300042: branch section 3 27
+    3300044: branch section 3 28
+    3300046: branch section 3 29
+    3300048: branch section 3 3
+    3300050: branch section 3 30
+    3300052: branch section 3 31
+    3300054: branch section 3 32
+    3300056: branch section 3 33
+    3300058: branch section 3 34
+    3300060: branch section 3 35
+    3300062: branch section 3 36
+    3300064: branch section 3 37
+    3300066: branch section 3 38
+    3300068: branch section 3 39
+    3300070: branch section 3 4
+    3300072: branch section 3 40
+    3300074: branch section 3 41
+    3300076: branch section 3 42
+    3300078: branch section 3 43
+    3300080: branch section 3 44
+    3300082: branch section 3 45
+    3300084: branch section 3 46
+    3300086: branch section 3 47
+    3300088: branch section 3 48
+    3300090: branch section 3 49
+    3300092: branch section 3 5
+    3300094: branch section 3 50
+    3300096: branch section 3 51
+    3300098: branch section 3 52
+    3300100: branch section 3 53
+    3300102: branch section 3 54
+    3300104: branch section 3 55
+    3300106: branch section 3 56
+    3300108: branch section 3 57
+    3300110: branch section 3 58
+    3300112: branch section 3 59
+    3300114: branch section 3 6
+    3300116: branch section 3 60
+    3300118: branch section 3 61
+    3300120: branch section 3 62
+    3300122: branch section 3 63
+    3300124: branch section 3 64
+    3300126: branch section 3 65
+    3300128: branch section 3 66
+    3300130: branch section 3 67
+    3300132: branch section 3 68
+    3300134: branch section 3 69
+    3300136: branch section 3 7
+    3300138: branch section 3 70
+    3300140: branch section 3 71
+    3300142: branch section 3 72
+    3300144: branch section 3 73
+    3300146: branch section 3 74
+    3300148: branch section 3 75
+    3300150: branch section 3 76
+    3300152: branch section 3 77
+    3300154: branch section 3 78
+    3300156: branch section 3 79
+    3300158: branch section 3 8
+    3300160: branch section 3 80
+    3300162: branch section 3 81
+    3300164: branch section 3 82
+    3300166: branch section 3 83
+    3300168: branch section 3 84
+    3300170: branch section 3 85
+    3300172: branch section 3 86
+    3300174: branch section 3 87
+    3300176: branch section 3 88
+    3300178: branch section 3 89
+    3300180: branch section 3 9
+    3300182: branch section 3 90
+    3300184: branch section 3 91
+    3300186: branch section 3 92
+    3300188: branch section 3 93
+    3300190: branch section 3 94
+    3300192: branch section 3 95
+    3300194: branch section 3 96
+    3300196: branch section 3 97
+    3300198: branch section#1
+    3300200: branch section#1 1
+    3300202: branch section#1 10
+    3300204: branch section#1 100
+    3300206: branch section#1 101
+    3300208: branch section#1 102
+    3300210: branch section#1 103
+    3300212: branch section#1 104
+    3300214: branch section#1 105
+    3300216: branch section#1 106
+    3300218: branch section#1 107
+    3300220: branch section#1 108
+    3300222: branch section#1 109
+    3300224: branch section#1 11
+    3300226: branch section#1 110
+    3300228: branch section#1 111
+    3300230: branch section#1 112
+    3300232: branch section#1 113
+    3300234: branch section#1 114
+    3300236: branch section#1 115
+    3300238: branch section#1 116
+    3300240: branch section#1 117
+    3300242: branch section#1 118
+    3300244: branch section#1 119
+    3300246: branch section#1 12
+    3300248: branch section#1 120
+    3300250: branch section#1 121
+    3300252: branch section#1 122
+    3300254: branch section#1 123
+    3300256: branch section#1 124
+    3300258: branch section#1 125
+    3300260: branch section#1 126
+    3300262: branch section#1 127
+    3300264: branch section#1 128
+    3300266: branch section#1 129
+    3300268: branch section#1 13
+    3300270: branch section#1 130
+    3300272: branch section#1 131
+    3300274: branch section#1 132
+    3300276: branch section#1 133
+    3300278: branch section#1 134
+    3300280: branch section#1 135
+    3300282: branch section#1 136
+    3300284: branch section#1 137
+    3300286: branch section#1 138
+    3300288: branch section#1 139
+    3300290: branch section#1 14
+    3300292: branch section#1 140
+    3300294: branch section#1 141
+    3300296: branch section#1 142
+    3300298: branch section#1 143
+    3300300: branch section#1 144
+    3300302: branch section#1 145
+    3300304: branch section#1 146
+    3300306: branch section#1 147
+    3300308: branch section#1 148
+    3300310: branch section#1 149
+    3300312: branch section#1 15
+    3300314: branch section#1 150
+    3300316: branch section#1 151
+    3300318: branch section#1 152
+    3300320: branch section#1 153
+    3300322: branch section#1 16
+    3300324: branch section#1 17
+    3300326: branch section#1 18
+    3300328: branch section#1 19
+    3300330: branch section#1 2
+    3300332: branch section#1 20
+    3300334: branch section#1 21
+    3300336: branch section#1 22
+    3300338: branch section#1 23
+    3300340: branch section#1 24
+    3300342: branch section#1 25
+    3300344: branch section#1 26
+    3300346: branch section#1 27
+    3300348: branch section#1 28
+    3300350: branch section#1 29
+    3300352: branch section#1 3
+    3300354: branch section#1 30
+    3300356: branch section#1 31
+    3300358: branch section#1 32
+    3300360: branch section#1 33
+    3300362: branch section#1 34
+    3300364: branch section#1 35
+    3300366: branch section#1 36
+    3300368: branch section#1 37
+    3300370: branch section#1 38
+    3300372: branch section#1 39
+    3300374: branch section#1 4
+    3300376: branch section#1 40
+    3300378: branch section#1 41
+    3300380: branch section#1 42
+    3300382: branch section#1 43
+    3300384: branch section#1 44
+    3300386: branch section#1 45
+    3300388: branch section#1 46
+    3300390: branch section#1 47
+    3300392: branch section#1 48
+    3300394: branch section#1 49
+    3300396: branch section#1 5
+    3300398: branch section#1 50
+    3300400: branch section#1 51
+    3300402: branch section#1 52
+    3300404: branch section#1 53
+    3300406: branch section#1 54
+    3300408: branch section#1 55
+    3300410: branch section#1 56
+    3300412: branch section#1 57
+    3300414: branch section#1 58
+    3300416: branch section#1 59
+    3300418: branch section#1 6
+    3300420: branch section#1 60
+    3300422: branch section#1 61
+    3300424: branch section#1 62
+    3300426: branch section#1 63
+    3300428: branch section#1 64
+    3300430: branch section#1 65
+    3300432: branch section#1 66
+    3300434: branch section#1 67
+    3300436: branch section#1 68
+    3300438: branch section#1 69
+    3300440: branch section#1 7
+    3300442: branch section#1 70
+    3300444: branch section#1 71
+    3300446: branch section#1 72
+    3300448: branch section#1 73
+    3300450: branch section#1 74
+    3300452: branch section#1 75
+    3300454: branch section#1 76
+    3300456: branch section#1 77
+    3300458: branch section#1 78
+    3300460: branch section#1 79
+    3300462: branch section#1 8
+    3300464: branch section#1 80
+    3300466: branch section#1 81
+    3300468: branch section#1 82
+    3300470: branch section#1 83
+    3300472: branch section#1 84
+    3300474: branch section#1 85
+    3300476: branch section#1 86
+    3300478: branch section#1 87
+    3300480: branch section#1 88
+    3300482: branch section#1 89
+    3300484: branch section#1 9
+    3300486: branch section#1 90
+    3300488: branch section#1 91
+    3300490: branch section#1 92
+    3300492: branch section#1 93
+    3300494: branch section#1 94
+    3300496: branch section#1 95
+    3300498: branch section#1 96
+    3300500: branch section#1 97
+    3300502: branch section#1 98
+    3300504: branch section#1 99
+    3300506: Bryce
+    3300508: trunk
+    3300510: trunk 1
+    3300512: trunk 2
+    3300514: trunk 3
+    3300516: trunk 4
+    3300518: trunk 5
+    3300520: trunk 6
+    4300000: Mesh AutoSave_Untitled
+    4300002: Mesh Bryce
+    4300004: Mesh branch section#1
+    4300006: Mesh branch section 3
+    4300008: Mesh trunk
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

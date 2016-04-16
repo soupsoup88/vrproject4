@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: b64613804b19a49d9abeb8d7e364a59b
+timeCreated: 1460515480
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 417fb583f380ecfa54a0b97c2a3c012b
+  longitude: -77.008823865563
+  latitude: 38.889850061178
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -663.3005, y: 1069.1495, z: -542.4924}
+      lookAt: {x: 447.4363, y: 231.47261, z: 476.00665}
+      up: {x: 0.3580886, y: 0.87404656, z: 0.3283522}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 3D_Man_Waving1976-03-09 21:13:56 -0500
+    100002: CrossTower
+    100004: CrossTower 1
+    100006: CrossTower 10
+    100008: CrossTower 11
+    100010: CrossTower 12
+    100012: CrossTower 13
+    100014: CrossTower 14
+    100016: CrossTower 15
+    100018: CrossTower 16
+    100020: CrossTower 17
+    100022: CrossTower 18
+    100024: CrossTower 19
+    100026: CrossTower 2
+    100028: CrossTower 3
+    100030: CrossTower 4
+    100032: CrossTower 5
+    100034: CrossTower 6
+    100036: CrossTower 7
+    100038: CrossTower 8
+    100040: CrossTower 9
+    100042: CrossTower#1
+    100044: //RootNode
+    400000: 3D_Man_Waving1976-03-09 21:13:56 -0500
+    400002: CrossTower
+    400004: CrossTower 1
+    400006: CrossTower 10
+    400008: CrossTower 11
+    400010: CrossTower 12
+    400012: CrossTower 13
+    400014: CrossTower 14
+    400016: CrossTower 15
+    400018: CrossTower 16
+    400020: CrossTower 17
+    400022: CrossTower 18
+    400024: CrossTower 19
+    400026: CrossTower 2
+    400028: CrossTower 3
+    400030: CrossTower 4
+    400032: CrossTower 5
+    400034: CrossTower 6
+    400036: CrossTower 7
+    400038: CrossTower 8
+    400040: CrossTower 9
+    400042: CrossTower#1
+    400044: //RootNode
+    2300000: 3D_Man_Waving1976-03-09 21:13:56 -0500
+    2300002: CrossTower
+    2300004: CrossTower 1
+    2300006: CrossTower 10
+    2300008: CrossTower 11
+    2300010: CrossTower 12
+    2300012: CrossTower 13
+    2300014: CrossTower 14
+    2300016: CrossTower 15
+    2300018: CrossTower 16
+    2300020: CrossTower 17
+    2300022: CrossTower 18
+    2300024: CrossTower 19
+    2300026: CrossTower 2
+    2300028: CrossTower 3
+    2300030: CrossTower 4
+    2300032: CrossTower 5
+    2300034: CrossTower 6
+    2300036: CrossTower 7
+    2300038: CrossTower 8
+    2300040: CrossTower 9
+    2300042: CrossTower#1
+    2300044: //RootNode
+    3300000: 3D_Man_Waving1976-03-09 21:13:56 -0500
+    3300002: CrossTower
+    3300004: CrossTower 1
+    3300006: CrossTower 10
+    3300008: CrossTower 11
+    3300010: CrossTower 12
+    3300012: CrossTower 13
+    3300014: CrossTower 14
+    3300016: CrossTower 15
+    3300018: CrossTower 16
+    3300020: CrossTower 17
+    3300022: CrossTower 18
+    3300024: CrossTower 19
+    3300026: CrossTower 2
+    3300028: CrossTower 3
+    3300030: CrossTower 4
+    3300032: CrossTower 5
+    3300034: CrossTower 6
+    3300036: CrossTower 7
+    3300038: CrossTower 8
+    3300040: CrossTower 9
+    3300042: CrossTower#1
+    3300044: //RootNode
+    4300000: Mesh skpfile (1)
+    4300002: Mesh 3D_Man_Waving1976-03-09 21:13:56 -0500
+    4300004: Mesh CrossTower
+    4300006: Mesh CrossTower#1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

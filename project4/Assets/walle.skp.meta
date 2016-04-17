@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: 3c9ee0edcef0c403c9fac6639fcecee1
+timeCreated: 1460842441
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000
+  assetHash:
+    serializedVersion: 2
+    Hash: c59c36a65f7e5fd179040faaef1dc6d4
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 3.4093075, y: 3.7933831, z: -4.812966}
+      lookAt: {x: -16.717949, y: -13.650348, z: 26.848577}
+      up: {x: -0.22618225, y: 0.9067789, z: 0.35580006}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bk1
+    100002: bk1 1
+    100004: box
+    100006: cylinder
+    100008: glaz
+    100010: glaz 1
+    100012: Group 10
+    100014: Group 137
+    100016: Group 138
+    100018: Group 14
+    100020: Group 16
+    100022: Group 18
+    100024: Group 2
+    100026: Group 20
+    100028: Group 21
+    100030: Group 221
+    100032: Group 226
+    100034: Group 228
+    100036: Group 230
+    100038: Group 232
+    100040: Group 26
+    100042: Group 28
+    100044: Group 30
+    100046: Group 320
+    100048: Group 37
+    100050: Group 370
+    100052: Group 4
+    100054: Group 420
+    100056: Group 423
+    100058: Group 425
+    100060: Group 427
+    100062: Group 431
+    100064: Group 435
+    100066: Group 436
+    100068: Group 440
+    100070: Group 442
+    100072: Group 443
+    100074: Group 445
+    100076: Group 6
+    100078: Group 8
+    100080: Group 87
+    100082: gusenica
+    100084: gusenica 1
+    100086: gusenica 10
+    100088: gusenica 11
+    100090: gusenica 12
+    100092: gusenica 13
+    100094: gusenica 14
+    100096: gusenica 15
+    100098: gusenica 16
+    100100: gusenica 17
+    100102: gusenica 18
+    100104: gusenica 19
+    100106: gusenica 2
+    100108: gusenica 20
+    100110: gusenica 21
+    100112: gusenica 22
+    100114: gusenica 23
+    100116: gusenica 24
+    100118: gusenica 25
+    100120: gusenica 26
+    100122: gusenica 27
+    100124: gusenica 28
+    100126: gusenica 29
+    100128: gusenica 3
+    100130: gusenica 30
+    100132: gusenica 31
+    100134: gusenica 32
+    100136: gusenica 33
+    100138: gusenica 34
+    100140: gusenica 35
+    100142: gusenica 36
+    100144: gusenica 37
+    100146: gusenica 38
+    100148: gusenica 39
+    100150: gusenica 4
+    100152: gusenica 40
+    100154: gusenica 41
+    100156: gusenica 42
+    100158: gusenica 43
+    100160: gusenica 44
+    100162: gusenica 45
+    100164: gusenica 46
+    100166: gusenica 47
+    100168: gusenica 48
+    100170: gusenica 49
+    100172: gusenica 5
+    100174: gusenica 50
+    100176: gusenica 51
+    100178: gusenica 52
+    100180: gusenica 53
+    100182: gusenica 54
+    100184: gusenica 55
+    100186: gusenica 56
+    100188: gusenica 57
+    100190: gusenica 58
+    100192: gusenica 59
+    100194: gusenica 6
+    100196: gusenica 60
+    100198: gusenica 61
+    100200: gusenica 62
+    100202: gusenica 63
+    100204: gusenica 64
+    100206: gusenica 65
+    100208: gusenica 66
+    100210: gusenica 67
+    100212: gusenica 68
+    100214: gusenica 69
+    100216: gusenica 7
+    100218: gusenica 70
+    100220: gusenica 71
+    100222: gusenica 72
+    100224: gusenica 73
+    100226: gusenica 74
+    100228: gusenica 75
+    100230: gusenica 76
+    100232: gusenica 77
+    100234: gusenica 78
+    100236: gusenica 79
+    100238: gusenica 8
+    100240: gusenica 80
+    100242: gusenica 81
+    100244: gusenica 9
+    100246: hend
+    100248: hend 1
+    100250: km
+    100252: km 1
+    100254: km 2
+    100256: km 3
+    100258: ks
+    100260: ks 1
+    100262: ks 2
+    100264: ks 3
+    100266: sphere
+    100268: Walle
+    100270: //RootNode
+    100272: zub
+    100274: zub 1
+    100276: zub 10
+    100278: zub 11
+    100280: zub 12
+    100282: zub 13
+    100284: zub 14
+    100286: zub 15
+    100288: zub 16
+    100290: zub 17
+    100292: zub 18
+    100294: zub 19
+    100296: zub 2
+    100298: zub 20
+    100300: zub 21
+    100302: zub 22
+    100304: zub 23
+    100306: zub 24
+    100308: zub 25
+    100310: zub 26
+    100312: zub 27
+    100314: zub 28
+    100316: zub 29
+    100318: zub 3
+    100320: zub 30
+    100322: zub 31
+    100324: zub 32
+    100326: zub 33
+    100328: zub 34
+    100330: zub 35
+    100332: zub 36
+    100334: zub 37
+    100336: zub 38
+    100338: zub 39
+    100340: zub 4
+    100342: zub 40
+    100344: zub 41
+    100346: zub 42
+    100348: zub 43
+    100350: zub 44
+    100352: zub 45
+    100354: zub 46
+    100356: zub 47
+    100358: zub 48
+    100360: zub 49
+    100362: zub 5
+    100364: zub 50
+    100366: zub 51
+    100368: zub 52
+    100370: zub 53
+    100372: zub 54
+    100374: zub 55
+    100376: zub 56
+    100378: zub 57
+    100380: zub 58
+    100382: zub 59
+    100384: zub 6
+    100386: zub 60
+    100388: zub 61
+    100390: zub 62
+    100392: zub 63
+    100394: zub 64
+    100396: zub 65
+    100398: zub 66
+    100400: zub 67
+    100402: zub 68
+    100404: zub 69
+    100406: zub 7
+    100408: zub 70
+    100410: zub 71
+    100412: zub 72
+    100414: zub 73
+    100416: zub 74
+    100418: zub 75
+    100420: zub 76
+    100422: zub 77
+    100424: zub 78
+    100426: zub 79
+    100428: zub 8
+    100430: zub 80
+    100432: zub 81
+    100434: zub 82
+    100436: zub 83
+    100438: zub 84
+    100440: zub 85
+    100442: zub 86
+    100444: zub 87
+    100446: zub 88
+    100448: zub 89
+    100450: zub 9
+    100452: zub 90
+    100454: zub 91
+    100456: zub 92
+    100458: zub 93
+    100460: zub 94
+    100462: zub 95
+    100464: "\u0428ALL E"
+    400000: bk1
+    400002: bk1 1
+    400004: box
+    400006: cylinder
+    400008: glaz
+    400010: glaz 1
+    400012: Group 10
+    400014: Group 137
+    400016: Group 138
+    400018: Group 14
+    400020: Group 16
+    400022: Group 18
+    400024: Group 2
+    400026: Group 20
+    400028: Group 21
+    400030: Group 221
+    400032: Group 226
+    400034: Group 228
+    400036: Group 230
+    400038: Group 232
+    400040: Group 26
+    400042: Group 28
+    400044: Group 30
+    400046: Group 320
+    400048: Group 37
+    400050: Group 370
+    400052: Group 4
+    400054: Group 420
+    400056: Group 423
+    400058: Group 425
+    400060: Group 427
+    400062: Group 431
+    400064: Group 435
+    400066: Group 436
+    400068: Group 440
+    400070: Group 442
+    400072: Group 443
+    400074: Group 445
+    400076: Group 6
+    400078: Group 8
+    400080: Group 87
+    400082: gusenica
+    400084: gusenica 1
+    400086: gusenica 10
+    400088: gusenica 11
+    400090: gusenica 12
+    400092: gusenica 13
+    400094: gusenica 14
+    400096: gusenica 15
+    400098: gusenica 16
+    400100: gusenica 17
+    400102: gusenica 18
+    400104: gusenica 19
+    400106: gusenica 2
+    400108: gusenica 20
+    400110: gusenica 21
+    400112: gusenica 22
+    400114: gusenica 23
+    400116: gusenica 24
+    400118: gusenica 25
+    400120: gusenica 26
+    400122: gusenica 27
+    400124: gusenica 28
+    400126: gusenica 29
+    400128: gusenica 3
+    400130: gusenica 30
+    400132: gusenica 31
+    400134: gusenica 32
+    400136: gusenica 33
+    400138: gusenica 34
+    400140: gusenica 35
+    400142: gusenica 36
+    400144: gusenica 37
+    400146: gusenica 38
+    400148: gusenica 39
+    400150: gusenica 4
+    400152: gusenica 40
+    400154: gusenica 41
+    400156: gusenica 42
+    400158: gusenica 43
+    400160: gusenica 44
+    400162: gusenica 45
+    400164: gusenica 46
+    400166: gusenica 47
+    400168: gusenica 48
+    400170: gusenica 49
+    400172: gusenica 5
+    400174: gusenica 50
+    400176: gusenica 51
+    400178: gusenica 52
+    400180: gusenica 53
+    400182: gusenica 54
+    400184: gusenica 55
+    400186: gusenica 56
+    400188: gusenica 57
+    400190: gusenica 58
+    400192: gusenica 59
+    400194: gusenica 6
+    400196: gusenica 60
+    400198: gusenica 61
+    400200: gusenica 62
+    400202: gusenica 63
+    400204: gusenica 64
+    400206: gusenica 65
+    400208: gusenica 66
+    400210: gusenica 67
+    400212: gusenica 68
+    400214: gusenica 69
+    400216: gusenica 7
+    400218: gusenica 70
+    400220: gusenica 71
+    400222: gusenica 72
+    400224: gusenica 73
+    400226: gusenica 74
+    400228: gusenica 75
+    400230: gusenica 76
+    400232: gusenica 77
+    400234: gusenica 78
+    400236: gusenica 79
+    400238: gusenica 8
+    400240: gusenica 80
+    400242: gusenica 81
+    400244: gusenica 9
+    400246: hend
+    400248: hend 1
+    400250: km
+    400252: km 1
+    400254: km 2
+    400256: km 3
+    400258: ks
+    400260: ks 1
+    400262: ks 2
+    400264: ks 3
+    400266: sphere
+    400268: Walle
+    400270: //RootNode
+    400272: zub
+    400274: zub 1
+    400276: zub 10
+    400278: zub 11
+    400280: zub 12
+    400282: zub 13
+    400284: zub 14
+    400286: zub 15
+    400288: zub 16
+    400290: zub 17
+    400292: zub 18
+    400294: zub 19
+    400296: zub 2
+    400298: zub 20
+    400300: zub 21
+    400302: zub 22
+    400304: zub 23
+    400306: zub 24
+    400308: zub 25
+    400310: zub 26
+    400312: zub 27
+    400314: zub 28
+    400316: zub 29
+    400318: zub 3
+    400320: zub 30
+    400322: zub 31
+    400324: zub 32
+    400326: zub 33
+    400328: zub 34
+    400330: zub 35
+    400332: zub 36
+    400334: zub 37
+    400336: zub 38
+    400338: zub 39
+    400340: zub 4
+    400342: zub 40
+    400344: zub 41
+    400346: zub 42
+    400348: zub 43
+    400350: zub 44
+    400352: zub 45
+    400354: zub 46
+    400356: zub 47
+    400358: zub 48
+    400360: zub 49
+    400362: zub 5
+    400364: zub 50
+    400366: zub 51
+    400368: zub 52
+    400370: zub 53
+    400372: zub 54
+    400374: zub 55
+    400376: zub 56
+    400378: zub 57
+    400380: zub 58
+    400382: zub 59
+    400384: zub 6
+    400386: zub 60
+    400388: zub 61
+    400390: zub 62
+    400392: zub 63
+    400394: zub 64
+    400396: zub 65
+    400398: zub 66
+    400400: zub 67
+    400402: zub 68
+    400404: zub 69
+    400406: zub 7
+    400408: zub 70
+    400410: zub 71
+    400412: zub 72
+    400414: zub 73
+    400416: zub 74
+    400418: zub 75
+    400420: zub 76
+    400422: zub 77
+    400424: zub 78
+    400426: zub 79
+    400428: zub 8
+    400430: zub 80
+    400432: zub 81
+    400434: zub 82
+    400436: zub 83
+    400438: zub 84
+    400440: zub 85
+    400442: zub 86
+    400444: zub 87
+    400446: zub 88
+    400448: zub 89
+    400450: zub 9
+    400452: zub 90
+    400454: zub 91
+    400456: zub 92
+    400458: zub 93
+    400460: zub 94
+    400462: zub 95
+    400464: "\u0428ALL E"
+    2300000: box
+    2300002: cylinder
+    2300004: glaz
+    2300006: glaz 1
+    2300008: Group 10
+    2300010: Group 14
+    2300012: Group 16
+    2300014: Group 18
+    2300016: Group 2
+    2300018: Group 226
+    2300020: Group 228
+    2300022: Group 230
+    2300024: Group 26
+    2300026: Group 28
+    2300028: Group 30
+    2300030: Group 320
+    2300032: Group 37
+    2300034: Group 370
+    2300036: Group 4
+    2300038: Group 423
+    2300040: Group 425
+    2300042: Group 427
+    2300044: Group 431
+    2300046: Group 436
+    2300048: Group 440
+    2300050: Group 443
+    2300052: Group 445
+    2300054: Group 6
+    2300056: Group 8
+    2300058: Group 87
+    2300060: gusenica
+    2300062: gusenica 1
+    2300064: gusenica 10
+    2300066: gusenica 11
+    2300068: gusenica 12
+    2300070: gusenica 13
+    2300072: gusenica 14
+    2300074: gusenica 15
+    2300076: gusenica 16
+    2300078: gusenica 17
+    2300080: gusenica 18
+    2300082: gusenica 19
+    2300084: gusenica 2
+    2300086: gusenica 20
+    2300088: gusenica 21
+    2300090: gusenica 22
+    2300092: gusenica 23
+    2300094: gusenica 24
+    2300096: gusenica 25
+    2300098: gusenica 26
+    2300100: gusenica 27
+    2300102: gusenica 28
+    2300104: gusenica 29
+    2300106: gusenica 3
+    2300108: gusenica 30
+    2300110: gusenica 31
+    2300112: gusenica 32
+    2300114: gusenica 33
+    2300116: gusenica 34
+    2300118: gusenica 35
+    2300120: gusenica 36
+    2300122: gusenica 37
+    2300124: gusenica 38
+    2300126: gusenica 39
+    2300128: gusenica 4
+    2300130: gusenica 40
+    2300132: gusenica 41
+    2300134: gusenica 42
+    2300136: gusenica 43
+    2300138: gusenica 44
+    2300140: gusenica 45
+    2300142: gusenica 46
+    2300144: gusenica 47
+    2300146: gusenica 48
+    2300148: gusenica 49
+    2300150: gusenica 5
+    2300152: gusenica 50
+    2300154: gusenica 51
+    2300156: gusenica 52
+    2300158: gusenica 53
+    2300160: gusenica 54
+    2300162: gusenica 55
+    2300164: gusenica 56
+    2300166: gusenica 57
+    2300168: gusenica 58
+    2300170: gusenica 59
+    2300172: gusenica 6
+    2300174: gusenica 60
+    2300176: gusenica 61
+    2300178: gusenica 62
+    2300180: gusenica 63
+    2300182: gusenica 64
+    2300184: gusenica 65
+    2300186: gusenica 66
+    2300188: gusenica 67
+    2300190: gusenica 68
+    2300192: gusenica 69
+    2300194: gusenica 7
+    2300196: gusenica 70
+    2300198: gusenica 71
+    2300200: gusenica 72
+    2300202: gusenica 73
+    2300204: gusenica 74
+    2300206: gusenica 75
+    2300208: gusenica 76
+    2300210: gusenica 77
+    2300212: gusenica 78
+    2300214: gusenica 79
+    2300216: gusenica 8
+    2300218: gusenica 80
+    2300220: gusenica 81
+    2300222: gusenica 9
+    2300224: hend
+    2300226: hend 1
+    2300228: km
+    2300230: km 1
+    2300232: km 2
+    2300234: km 3
+    2300236: ks
+    2300238: ks 1
+    2300240: ks 2
+    2300242: ks 3
+    2300244: sphere
+    2300246: zub
+    2300248: zub 1
+    2300250: zub 10
+    2300252: zub 11
+    2300254: zub 12
+    2300256: zub 13
+    2300258: zub 14
+    2300260: zub 15
+    2300262: zub 16
+    2300264: zub 17
+    2300266: zub 18
+    2300268: zub 19
+    2300270: zub 2
+    2300272: zub 20
+    2300274: zub 21
+    2300276: zub 22
+    2300278: zub 23
+    2300280: zub 24
+    2300282: zub 25
+    2300284: zub 26
+    2300286: zub 27
+    2300288: zub 28
+    2300290: zub 29
+    2300292: zub 3
+    2300294: zub 30
+    2300296: zub 31
+    2300298: zub 32
+    2300300: zub 33
+    2300302: zub 34
+    2300304: zub 35
+    2300306: zub 36
+    2300308: zub 37
+    2300310: zub 38
+    2300312: zub 39
+    2300314: zub 4
+    2300316: zub 40
+    2300318: zub 41
+    2300320: zub 42
+    2300322: zub 43
+    2300324: zub 44
+    2300326: zub 45
+    2300328: zub 46
+    2300330: zub 47
+    2300332: zub 48
+    2300334: zub 49
+    2300336: zub 5
+    2300338: zub 50
+    2300340: zub 51
+    2300342: zub 52
+    2300344: zub 53
+    2300346: zub 54
+    2300348: zub 55
+    2300350: zub 56
+    2300352: zub 57
+    2300354: zub 58
+    2300356: zub 59
+    2300358: zub 6
+    2300360: zub 60
+    2300362: zub 61
+    2300364: zub 62
+    2300366: zub 63
+    2300368: zub 64
+    2300370: zub 65
+    2300372: zub 66
+    2300374: zub 67
+    2300376: zub 68
+    2300378: zub 69
+    2300380: zub 7
+    2300382: zub 70
+    2300384: zub 71
+    2300386: zub 72
+    2300388: zub 73
+    2300390: zub 74
+    2300392: zub 75
+    2300394: zub 76
+    2300396: zub 77
+    2300398: zub 78
+    2300400: zub 79
+    2300402: zub 8
+    2300404: zub 80
+    2300406: zub 81
+    2300408: zub 82
+    2300410: zub 83
+    2300412: zub 84
+    2300414: zub 85
+    2300416: zub 86
+    2300418: zub 87
+    2300420: zub 88
+    2300422: zub 89
+    2300424: zub 9
+    2300426: zub 90
+    2300428: zub 91
+    2300430: zub 92
+    2300432: zub 93
+    2300434: zub 94
+    2300436: zub 95
+    2300438: "\u0428ALL E"
+    3300000: box
+    3300002: cylinder
+    3300004: glaz
+    3300006: glaz 1
+    3300008: Group 10
+    3300010: Group 14
+    3300012: Group 16
+    3300014: Group 18
+    3300016: Group 2
+    3300018: Group 226
+    3300020: Group 228
+    3300022: Group 230
+    3300024: Group 26
+    3300026: Group 28
+    3300028: Group 30
+    3300030: Group 320
+    3300032: Group 37
+    3300034: Group 370
+    3300036: Group 4
+    3300038: Group 423
+    3300040: Group 425
+    3300042: Group 427
+    3300044: Group 431
+    3300046: Group 436
+    3300048: Group 440
+    3300050: Group 443
+    3300052: Group 445
+    3300054: Group 6
+    3300056: Group 8
+    3300058: Group 87
+    3300060: gusenica
+    3300062: gusenica 1
+    3300064: gusenica 10
+    3300066: gusenica 11
+    3300068: gusenica 12
+    3300070: gusenica 13
+    3300072: gusenica 14
+    3300074: gusenica 15
+    3300076: gusenica 16
+    3300078: gusenica 17
+    3300080: gusenica 18
+    3300082: gusenica 19
+    3300084: gusenica 2
+    3300086: gusenica 20
+    3300088: gusenica 21
+    3300090: gusenica 22
+    3300092: gusenica 23
+    3300094: gusenica 24
+    3300096: gusenica 25
+    3300098: gusenica 26
+    3300100: gusenica 27
+    3300102: gusenica 28
+    3300104: gusenica 29
+    3300106: gusenica 3
+    3300108: gusenica 30
+    3300110: gusenica 31
+    3300112: gusenica 32
+    3300114: gusenica 33
+    3300116: gusenica 34
+    3300118: gusenica 35
+    3300120: gusenica 36
+    3300122: gusenica 37
+    3300124: gusenica 38
+    3300126: gusenica 39
+    3300128: gusenica 4
+    3300130: gusenica 40
+    3300132: gusenica 41
+    3300134: gusenica 42
+    3300136: gusenica 43
+    3300138: gusenica 44
+    3300140: gusenica 45
+    3300142: gusenica 46
+    3300144: gusenica 47
+    3300146: gusenica 48
+    3300148: gusenica 49
+    3300150: gusenica 5
+    3300152: gusenica 50
+    3300154: gusenica 51
+    3300156: gusenica 52
+    3300158: gusenica 53
+    3300160: gusenica 54
+    3300162: gusenica 55
+    3300164: gusenica 56
+    3300166: gusenica 57
+    3300168: gusenica 58
+    3300170: gusenica 59
+    3300172: gusenica 6
+    3300174: gusenica 60
+    3300176: gusenica 61
+    3300178: gusenica 62
+    3300180: gusenica 63
+    3300182: gusenica 64
+    3300184: gusenica 65
+    3300186: gusenica 66
+    3300188: gusenica 67
+    3300190: gusenica 68
+    3300192: gusenica 69
+    3300194: gusenica 7
+    3300196: gusenica 70
+    3300198: gusenica 71
+    3300200: gusenica 72
+    3300202: gusenica 73
+    3300204: gusenica 74
+    3300206: gusenica 75
+    3300208: gusenica 76
+    3300210: gusenica 77
+    3300212: gusenica 78
+    3300214: gusenica 79
+    3300216: gusenica 8
+    3300218: gusenica 80
+    3300220: gusenica 81
+    3300222: gusenica 9
+    3300224: hend
+    3300226: hend 1
+    3300228: km
+    3300230: km 1
+    3300232: km 2
+    3300234: km 3
+    3300236: ks
+    3300238: ks 1
+    3300240: ks 2
+    3300242: ks 3
+    3300244: sphere
+    3300246: zub
+    3300248: zub 1
+    3300250: zub 10
+    3300252: zub 11
+    3300254: zub 12
+    3300256: zub 13
+    3300258: zub 14
+    3300260: zub 15
+    3300262: zub 16
+    3300264: zub 17
+    3300266: zub 18
+    3300268: zub 19
+    3300270: zub 2
+    3300272: zub 20
+    3300274: zub 21
+    3300276: zub 22
+    3300278: zub 23
+    3300280: zub 24
+    3300282: zub 25
+    3300284: zub 26
+    3300286: zub 27
+    3300288: zub 28
+    3300290: zub 29
+    3300292: zub 3
+    3300294: zub 30
+    3300296: zub 31
+    3300298: zub 32
+    3300300: zub 33
+    3300302: zub 34
+    3300304: zub 35
+    3300306: zub 36
+    3300308: zub 37
+    3300310: zub 38
+    3300312: zub 39
+    3300314: zub 4
+    3300316: zub 40
+    3300318: zub 41
+    3300320: zub 42
+    3300322: zub 43
+    3300324: zub 44
+    3300326: zub 45
+    3300328: zub 46
+    3300330: zub 47
+    3300332: zub 48
+    3300334: zub 49
+    3300336: zub 5
+    3300338: zub 50
+    3300340: zub 51
+    3300342: zub 52
+    3300344: zub 53
+    3300346: zub 54
+    3300348: zub 55
+    3300350: zub 56
+    3300352: zub 57
+    3300354: zub 58
+    3300356: zub 59
+    3300358: zub 6
+    3300360: zub 60
+    3300362: zub 61
+    3300364: zub 62
+    3300366: zub 63
+    3300368: zub 64
+    3300370: zub 65
+    3300372: zub 66
+    3300374: zub 67
+    3300376: zub 68
+    3300378: zub 69
+    3300380: zub 7
+    3300382: zub 70
+    3300384: zub 71
+    3300386: zub 72
+    3300388: zub 73
+    3300390: zub 74
+    3300392: zub 75
+    3300394: zub 76
+    3300396: zub 77
+    3300398: zub 78
+    3300400: zub 79
+    3300402: zub 8
+    3300404: zub 80
+    3300406: zub 81
+    3300408: zub 82
+    3300410: zub 83
+    3300412: zub 84
+    3300414: zub 85
+    3300416: zub 86
+    3300418: zub 87
+    3300420: zub 88
+    3300422: zub 89
+    3300424: zub 9
+    3300426: zub 90
+    3300428: zub 91
+    3300430: zub 92
+    3300432: zub 93
+    3300434: zub 94
+    3300436: zub 95
+    3300438: "\u0428ALL E"
+    4300000: Mesh Group 2
+    4300002: Mesh Group 4
+    4300004: Mesh Group 6
+    4300006: Mesh Group 8
+    4300008: Mesh Group 10
+    4300010: Mesh box
+    4300012: Mesh Group 14
+    4300014: Mesh Group 16
+    4300016: Mesh Group 18
+    4300018: Mesh ks
+    4300020: Mesh Group 26
+    4300022: Mesh Group 28
+    4300024: Mesh Group 30
+    4300026: Mesh km
+    4300028: Mesh Group 37
+    4300030: Mesh zub
+    4300032: Mesh Group 87
+    4300034: Mesh gusenica
+    4300036: Mesh ks
+    4300038: Mesh Group 226
+    4300040: Mesh Group 228
+    4300042: Mesh gusenica
+    4300044: Mesh km
+    4300046: Mesh Group 320
+    4300048: Mesh zub
+    4300050: Mesh Group 370
+    4300052: Mesh cylinder
+    4300054: Mesh Group 423
+    4300056: Mesh Group 425
+    4300058: Mesh Group 427
+    4300060: Mesh glaz
+    4300062: Mesh Group 431
+    4300064: Mesh sphere
+    4300066: Mesh Group 443
+    4300068: Mesh hend
+    4300070: "Mesh \u0428ALL E"
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

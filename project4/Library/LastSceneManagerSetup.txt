@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/desert.unity
-=======
 - path: Assets/scene/su pu river before pullution.unity
->>>>>>> 5ac00c89d8b4af64a967142fa70129a649cc8545
   isLoaded: 1
   isActive: 1

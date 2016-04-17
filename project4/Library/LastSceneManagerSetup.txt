@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scene/office.unity
+- path: Assets/scene/su pu river before pullution.unity
   isLoaded: 1
   isActive: 1

@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scene/su pu river before pullution.unity
+- path: Assets/city.unity
   isLoaded: 1
   isActive: 1

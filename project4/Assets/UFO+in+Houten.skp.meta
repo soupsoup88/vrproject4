@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: d2f43f23e015f4475a8e80ebd848badf
+timeCreated: 1460953232
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 93c7787043d1857c5a2c8d8367411d95
+  longitude: 5.133097785719201
+  latitude: 52.02525615869218
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -12.337764, y: 18.395098, z: -39.835842}
+      lookAt: {x: 46.038143, y: -45.290077, z: 153.8087}
+      up: {x: 0.08668763, y: 0.9538315, z: 0.28756016}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Alienissimo
+    100002: Google Earth Snapshot
+    100004: Paw
+    100006: Paw 1
+    100008: Paw 2
+    100010: //RootNode
+    400000: Alienissimo
+    400002: Google Earth Snapshot
+    400004: Paw
+    400006: Paw 1
+    400008: Paw 2
+    400010: //RootNode
+    2300000: Alienissimo
+    2300002: Google Earth Snapshot
+    2300004: Paw
+    2300006: Paw 1
+    2300008: Paw 2
+    2300010: //RootNode
+    3300000: Alienissimo
+    3300002: Google Earth Snapshot
+    3300004: Paw
+    3300006: Paw 1
+    3300008: Paw 2
+    3300010: //RootNode
+    4300000: Mesh UFO+in+Houten
+    4300002: Mesh Google Earth Snapshot
+    4300004: Mesh Paw
+    4300006: Mesh Alienissimo
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

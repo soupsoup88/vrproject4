@@ -49,6 +49,9 @@
      <Compile Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js" />
      <Compile Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js" />
      <Compile Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Terrain\Demoscene\ats vertexLitShader Package\Script\setupVertexLitShaderV2.js" />
+     <Compile Include="Assets\PainterlyNature\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js" />
+     <Compile Include="Assets\PainterlyNature\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonCamera.js" />
+     <Compile Include="Assets\PainterlyNature\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" />
      <Compile Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\AntialiasingAsPostEffect.js" />
      <Compile Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\BloomAndLensFlares.js" />
      <Compile Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\CameraInfo.js" />
@@ -103,6 +106,7 @@
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\FisheyeShader.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Apply.shader" />
      <None Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-SimpleWater4.shader" />
+     <None Include="Assets\PainterlyNature\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\frag_ao.cginc" />
      <None Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Terrain\Demoscene\atsV2 billboardShader package\Tree.cginc" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
@@ -117,6 +121,7 @@
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\GlowEffectDownsample.shader" />
      <None Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Terrain\Demoscene\atsV2 UnityTerrainBump Package\TerrainReplacementAtsV2.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\CreaseApply.shader" />
+     <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />

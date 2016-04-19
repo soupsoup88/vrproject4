@@ -3,7 +3,12 @@ guid: 8a065367956fbf54fb8c7c66d863a4b3
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: foliage_groundcover_02
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0

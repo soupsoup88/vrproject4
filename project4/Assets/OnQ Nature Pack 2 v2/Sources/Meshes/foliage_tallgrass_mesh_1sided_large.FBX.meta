@@ -3,7 +3,12 @@ guid: aee1ac9063e72534b830a7a4422d4706
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: foliage_tallgrass_mesh_ref
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0

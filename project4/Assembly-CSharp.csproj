@@ -97,6 +97,7 @@
      <Compile Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
      <Compile Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
      <Compile Include="Assets\Su Pu\SkySphere_V1\Examples\Gui.cs" />
+     <Compile Include="Assets\fix_axis_y.cs" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />

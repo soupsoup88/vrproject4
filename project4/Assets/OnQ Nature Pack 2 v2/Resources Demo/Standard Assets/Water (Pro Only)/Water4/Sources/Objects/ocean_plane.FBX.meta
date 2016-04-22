@@ -8,10 +8,7 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: kraut_plane
-<<<<<<< HEAD
-=======
     4300002: OceanPlane
->>>>>>> 3d671bab1c1e0ef926e83b9bf5a5951cc930965a
     11100000: //RootNode
   materials:
     importMaterials: 1

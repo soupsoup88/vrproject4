@@ -51,122 +51,6 @@
      <Compile Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Standard Assets\Editor\Water (Pro Only)\Water4\SpecularLightingEditor.cs" />
      <Compile Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Standard Assets\Editor\Water (Pro Only)\Water4\WaterBaseEditor.cs" />
      <Compile Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Standard Assets\Editor\Water (Pro Only)\Water4\WaterEditorUtility.cs" />
-     <Compile Include="Assets\Skele\AnimatorSP\Files\Editor\AMCodeView.cs" />
-     <Compile Include="Assets\Skele\AnimatorSP\Files\Editor\AMEasePicker.cs" />
-     <Compile Include="Assets\Skele\AnimatorSP\Files\Editor\AMOptions.cs" />
-     <Compile Include="Assets\Skele\AnimatorSP\Files\Editor\AMOptionsFile.cs" />
-     <Compile Include="Assets\Skele\AnimatorSP\Files\Editor\AMPropertySelect.cs" />
-     <Compile Include="Assets\Skele\AnimatorSP\Files\Editor\AMSettings.cs" />
-     <Compile Include="Assets\Skele\AnimatorSP\Files\Editor\AMTakeExport.cs" />
-     <Compile Include="Assets\Skele\AnimatorSP\Files\Editor\AMTakeImport.cs" />
-     <Compile Include="Assets\Skele\AnimatorSP\Files\Editor\AMTimeline.cs" />
-     <Compile Include="Assets\Skele\AnimatorSP\Files\Editor\AMTransitionPicker.cs" />
-     <Compile Include="Assets\Skele\AnimatorSP\Files\Editor\ObjInspect\AMTakeEditor.cs" />
-     <Compile Include="Assets\Skele\AnimatorSP\Files\Editor\ObjInspect\AnimatorDataEditor.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\AssetPostProcessor\FindBonePP.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\Constraints\LimbConstraints.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\Cutscene\CCEditor.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\Cutscene\Editor\CC_GUI_Editor.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\Cutscene\Editor\CC_JumpTo_Editor.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\Cutscene\PropertyDrawers\CCTimeTagDrawer.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\Cutscene\PropertyDrawers\CCTrPathDrawer.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\DaeExporter\DaeExporter.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\DaeExporter\DaeExporterEditor.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\GUIWindows\MirrorSettingWindow.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\IKSolvers\LimbSolver.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\IKSolvers\TestCCD.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\MirrorCtrl.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\Misc\AnimCompressEditorWindow.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\Misc\AnimCurvePropEditor.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\Misc\AnimMirrorEditorWindow.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\Misc\AnimationBaker.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\Misc\AnimatorDebugger.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\Misc\MeshPivotFixerEditorWindow.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\Misc\MirrorNameRegex.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\Misc\MuscleClipConverterEditor.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\Misc\ShareSkeleEditor.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\Misc\ShowBindPose.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\PoseSet.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\SMREditor.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\SelectionCtrl.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Editor\VersionCheck.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Scripts\IKSolvers\Editor\AngleConstraintEditor.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Scripts\IKSolvers\Editor\CCDSolverEditor.cs" />
-     <Compile Include="Assets\Skele\CharacterAnimationTools\Scripts\IKSolvers\Editor\ConeConstraintEditor.cs" />
-     <Compile Include="Assets\Skele\Common\Attributes\Editor\CommonAttributeProcessorEditor.cs" />
-     <Compile Include="Assets\Skele\Common\Attributes\Editor\TagNLayer.cs" />
-     <Compile Include="Assets\Skele\Common\Editor\EData\EDOBool.cs" />
-     <Compile Include="Assets\Skele\Common\Editor\EData\EDOFloat.cs" />
-     <Compile Include="Assets\Skele\Common\Editor\EData\EDOInt.cs" />
-     <Compile Include="Assets\Skele\Common\Editor\EData\EDOString.cs" />
-     <Compile Include="Assets\Skele\Common\Editor\EData\EData.cs" />
-     <Compile Include="Assets\Skele\Common\Editor\EData\EDataInspector.cs" />
-     <Compile Include="Assets\Skele\Common\Editor\EData\EDataObj.cs" />
-     <Compile Include="Assets\Skele\Common\Editor\ETimeProf.cs" />
-     <Compile Include="Assets\Skele\Common\Editor\EUtil.cs" />
-     <Compile Include="Assets\Skele\Common\Editor\EditorEditorWindow.cs" />
-     <Compile Include="Assets\Skele\Common\Editor\EmptyMarkerEditor.cs" />
-     <Compile Include="Assets\Skele\Common\Editor\GUIWindowMgr.cs" />
-     <Compile Include="Assets\Skele\Common\Editor\ParticleMarker.cs" />
-     <Compile Include="Assets\Skele\Common\Editor\PreferenceItem.cs" />
-     <Compile Include="Assets\Skele\Common\Editor\UndoCont.cs" />
-     <Compile Include="Assets\Skele\Common\Editor\ViewRotate.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\BaseConstraintEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\ChildOfEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\ClampToEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\ConstraintManagerEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\ConstraintStackEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\ConstraintsWindow.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\CopyPositionEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\CopyRotationEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\CopyScaleEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\CopyTransformEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\EConUtil.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\FloorEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\FollowPathEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\LimitDistanceEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\LimitLocationEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\LimitRotationEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\LimitScaleEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\LockedTrackEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\LookAtEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\MaintainVolumeEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\ShrinkWrapEditor.cs" />
-     <Compile Include="Assets\Skele\Constraints\Editor\TransformMappingEditor.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\EditorCursor.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\MeshManipulator.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\MeshMarker.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\MeshSelection.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\MeshUndoer.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\MeshUtil\EdgeMarker.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\MeshUtil\MeshCache.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\MeshUtil\TriMarker.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\MeshUtil\VertMarker.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\Operations\DeformOp\MoveVerts.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\Operations\DeformOp\RotateVerts.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\Operations\DeformOp\ScaleVerts.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\Operations\EdgeLoopSelectOp.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\Operations\FixBoundNormalOp.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\Operations\OpUtil.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\Operations\RecalcNormalOp.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\OverlapChecker.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\Pivotor.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\ShortcutListWindow.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\SoftSelection\SoftSelection.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\SoftSelection\SoftSelectionRes.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\UndoMesh.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\VMesh\VEdge.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\VMesh\VFace.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\VMesh\VMesh.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\VMesh\VMeshUtil.cs" />
-     <Compile Include="Assets\Skele\MeshEditor\Editor\VMesh\VVert.cs" />
-     <Compile Include="Assets\Skele\Spline\Editor\CatmullRomCentripetalBehaviourEditor.cs" />
-     <Compile Include="Assets\Skele\Spline\Editor\CatmullRomUniformBehaviourEditor.cs" />
-     <Compile Include="Assets\Skele\Spline\Editor\ISplineEditor.cs" />
-     <Compile Include="Assets\Skele\VertAnimation\Editor\BaseMorphSOEditor.cs" />
-     <Compile Include="Assets\Skele\VertAnimation\Editor\EditorRes.cs" />
-     <Compile Include="Assets\Skele\VertAnimation\Editor\MorphProcEditor.cs" />
-     <Compile Include="Assets\Skele\VertAnimation\Editor\ShapeKeyMorphSOEditor.cs" />
      <Compile Include="Assets\Su Pu\NatureStarterKit2\Editor\ImageEffects\AntialiasingEditor.cs" />
      <Compile Include="Assets\Su Pu\NatureStarterKit2\Editor\ImageEffects\BloomAndFlaresEditor.cs" />
      <Compile Include="Assets\Su Pu\NatureStarterKit2\Editor\ImageEffects\BloomEditor.cs" />
@@ -184,10 +68,8 @@
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
-     <None Include="Assets\Skele\MeshEditor\Editor\MeshUtil\EdgeMat.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
-     <None Include="Assets\Skele\AnimatorSP\changelog.txt" />
      <None Include="Assets\Dog Pack\Chart\Model\dogMonster.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\GlowConeTap.shader" />
@@ -223,7 +105,6 @@
      <None Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-SimpleWater4.shader" />
      <None Include="Assets\PainterlyNature\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\frag_ao.cginc" />
-     <None Include="Assets\Skele\MeshEditor\Editor\Res\TransDouble.shader" />
      <None Include="Assets\Dog Pack\Chart\Model\ModelHighResolution\Model\dogHP.txt" />
      <None Include="Assets\Allsky\AllSkyDemoEnvironment\Specular Snow Vertex Colours.shader" />
      <None Include="Assets\Dog Pack\Chart\Model\dog.txt" />
@@ -232,7 +113,6 @@
      <None Include="Assets\Dog Pack\Dobermann\Model\Dobermann.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\TiltShift.shader" />
-     <None Include="Assets\Skele\AnimatorSP\Files\Resources\AMIrisShapeNew.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader" />
@@ -245,17 +125,14 @@
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
-     <None Include="Assets\Skele\_ExampleScenes\Res\Extra\InvColor.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Luminance.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
-     <None Include="Assets\Skele\README_CAT.txt" />
      <None Include="Assets\Dog Pack\Dachshund\Model\Dachschund.txt" />
      <None Include="Assets\Dog Pack\German Shepherd\Model\GermanShepherdLP.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader" />
-     <None Include="Assets\Skele\ReleaseNotes_CAT.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlurDX11.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\SeparableBlurPlus.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
@@ -263,13 +140,10 @@
      <None Include="Assets\Dog Pack\Dachshund\Model\DachschundLP.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\BlurEffectConeTaps.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlur.shader" />
-     <None Include="Assets\Skele\MeshEditor\Editor\Res\RenderDepth.shader" />
      <None Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Standard Assets\Water (Pro Only)\Sources\Shaders\FX-Water.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\DLAA.shader" />
-     <None Include="Assets\Skele\CharacterAnimationTools\Scripts\Collada_Main\COPYING.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrainDX11.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter2.shader" />
-     <None Include="Assets\Skele\CharacterAnimationTools\Res\TheBoneManipulator\passthrough.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableBlur.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\MotionBlurClear.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionEffect.shader" />
@@ -286,14 +160,11 @@
      <None Include="Assets\Dog Pack\Wolf\Model\Wolf.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
-     <None Include="Assets\Skele\CharacterAnimationTools\Res\TheBoneManipulator\NormalVertMarker.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader" />
-     <None Include="Assets\Skele\AnimatorSP\Examples\Assets\Audios\Sound.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrection3DLut.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\EdgeDetectNormals.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\PrepareSunShaftsBlur.shader" />
-     <None Include="Assets\Skele\MeshEditor\Editor\MeshUtil\VertBillboard.shader" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Dog Pack\Wolf\Model\WolfLP.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\Blend.shader" />
@@ -311,7 +182,6 @@
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset2.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
      <None Include="Assets\Dog Pack\German Shepherd\Model\GermanShepherd.txt" />
-     <None Include="Assets\Skele\Common\Res\DrawUtil\DrawUtilLine.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>/Users/soupsoup88/Desktop/finalproject/project4/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
@@ -342,12 +212,6 @@
  </Reference>
  <Reference Include="UnityEditor.TreeEditor">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
- </Reference>
- <Reference Include="JsonFx.Json">
- <HintPath>/Users/soupsoup88/Desktop/finalproject/project4/Assets/Skele/AnimatorSP/Files/Scripts/JsonFx.Json.dll</HintPath>
- </Reference>
- <Reference Include="FullSerializer - Unity">
- <HintPath>/Users/soupsoup88/Desktop/finalproject/project4/Assets/Skele/Common/FullSerializer/FullSerializer - Unity.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -382,6 +246,8 @@
       <Project>{EA977C01-A6BF-CF76-FEEF-994D6305F8F8}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{2FA86D2E-88B4-5FE9-EBFC-1CBFD603A996}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
+      <Project>{EA5693E0-9321-3C30-7572-6B5152C7D95D}</Project>      <Name>Assembly-CSharp-Editor-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

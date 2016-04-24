@@ -92,8 +92,10 @@
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
+     <None Include="Assets\Skele\MeshEditor\Editor\MeshUtil\EdgeMat.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
+     <None Include="Assets\Skele\AnimatorSP\changelog.txt" />
      <None Include="Assets\Dog Pack\Chart\Model\dogMonster.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\GlowConeTap.shader" />
@@ -129,6 +131,7 @@
      <None Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-SimpleWater4.shader" />
      <None Include="Assets\PainterlyNature\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\frag_ao.cginc" />
+     <None Include="Assets\Skele\MeshEditor\Editor\Res\TransDouble.shader" />
      <None Include="Assets\Dog Pack\Chart\Model\ModelHighResolution\Model\dogHP.txt" />
      <None Include="Assets\Allsky\AllSkyDemoEnvironment\Specular Snow Vertex Colours.shader" />
      <None Include="Assets\Dog Pack\Chart\Model\dog.txt" />
@@ -137,6 +140,7 @@
      <None Include="Assets\Dog Pack\Dobermann\Model\Dobermann.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\TiltShift.shader" />
+     <None Include="Assets\Skele\AnimatorSP\Files\Resources\AMIrisShapeNew.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader" />
@@ -149,14 +153,17 @@
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\Skele\_ExampleScenes\Res\Extra\InvColor.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Luminance.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
+     <None Include="Assets\Skele\README_CAT.txt" />
      <None Include="Assets\Dog Pack\Dachshund\Model\Dachschund.txt" />
      <None Include="Assets\Dog Pack\German Shepherd\Model\GermanShepherdLP.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader" />
+     <None Include="Assets\Skele\ReleaseNotes_CAT.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlurDX11.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\SeparableBlurPlus.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
@@ -164,10 +171,13 @@
      <None Include="Assets\Dog Pack\Dachshund\Model\DachschundLP.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\BlurEffectConeTaps.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlur.shader" />
+     <None Include="Assets\Skele\MeshEditor\Editor\Res\RenderDepth.shader" />
      <None Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Standard Assets\Water (Pro Only)\Sources\Shaders\FX-Water.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\DLAA.shader" />
+     <None Include="Assets\Skele\CharacterAnimationTools\Scripts\Collada_Main\COPYING.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrainDX11.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter2.shader" />
+     <None Include="Assets\Skele\CharacterAnimationTools\Res\TheBoneManipulator\passthrough.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableBlur.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\MotionBlurClear.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionEffect.shader" />
@@ -184,11 +194,14 @@
      <None Include="Assets\Dog Pack\Wolf\Model\Wolf.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
+     <None Include="Assets\Skele\CharacterAnimationTools\Res\TheBoneManipulator\NormalVertMarker.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader" />
+     <None Include="Assets\Skele\AnimatorSP\Examples\Assets\Audios\Sound.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrection3DLut.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\EdgeDetectNormals.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\PrepareSunShaftsBlur.shader" />
+     <None Include="Assets\Skele\MeshEditor\Editor\MeshUtil\VertBillboard.shader" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Dog Pack\Wolf\Model\WolfLP.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\Blend.shader" />
@@ -206,12 +219,19 @@
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset2.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
      <None Include="Assets\Dog Pack\German Shepherd\Model\GermanShepherd.txt" />
+     <None Include="Assets\Skele\Common\Res\DrawUtil\DrawUtilLine.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="JsonFx.Json">
+ <HintPath>/Users/soupsoup88/Desktop/finalproject/project4/Assets/Skele/AnimatorSP/Files/Scripts/JsonFx.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="FullSerializer - Unity">
+ <HintPath>/Users/soupsoup88/Desktop/finalproject/project4/Assets/Skele/Common/FullSerializer/FullSerializer - Unity.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

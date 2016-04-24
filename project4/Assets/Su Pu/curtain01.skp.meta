@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 4247c2369c53f43e9b5ac46e71aa1d79
+timeCreated: 1461464314
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f00000040000000410000004200000043000000440000004500000046000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 082ff9d2fef731009f4adbb8d840e76a
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.7191115, y: 0.8788943, z: -2.7218182}
+      lookAt: {x: 1.6043512, y: 0.6912927, z: 1.8758899}
+      up: {x: 0.016414447, y: 0.9993376, z: 0.03248119}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: end
+    100004: end 1
+    100006: end 2
+    100008: end 3
+    100010: end 4
+    100012: end 5
+    100014: Group 1
+    100016: Group 26
+    100018: Group 28
+    100020: Group 3
+    100022: Group 49
+    100024: Group 5
+    100026: Group 51
+    100028: Group#282
+    100030: Group#282 1
+    100032: Group#282 10
+    100034: Group#282 11
+    100036: Group#282 12
+    100038: Group#282 13
+    100040: Group#282 14
+    100042: Group#282 15
+    100044: Group#282 16
+    100046: Group#282 17
+    100048: Group#282 18
+    100050: Group#282 19
+    100052: Group#282 2
+    100054: Group#282 20
+    100056: Group#282 21
+    100058: Group#282 22
+    100060: Group#282 23
+    100062: Group#282 24
+    100064: Group#282 25
+    100066: Group#282 26
+    100068: Group#282 27
+    100070: Group#282 28
+    100072: Group#282 29
+    100074: Group#282 3
+    100076: Group#282 30
+    100078: Group#282 31
+    100080: Group#282 32
+    100082: Group#282 33
+    100084: Group#282 34
+    100086: Group#282 35
+    100088: Group#282 36
+    100090: Group#282 37
+    100092: Group#282 38
+    100094: Group#282 39
+    100096: Group#282 4
+    100098: Group#282 40
+    100100: Group#282 41
+    100102: Group#282 42
+    100104: Group#282 43
+    100106: Group#282 44
+    100108: Group#282 5
+    100110: Group#282 6
+    100112: Group#282 7
+    100114: Group#282 8
+    100116: Group#282 9
+    100118: Window_Curtains1
+    100120: Window_Curtains1 1
+    100122: Window_Curtains1 2
+    400000: //RootNode
+    400002: end
+    400004: end 1
+    400006: end 2
+    400008: end 3
+    400010: end 4
+    400012: end 5
+    400014: Group 1
+    400016: Group 26
+    400018: Group 28
+    400020: Group 3
+    400022: Group 49
+    400024: Group 5
+    400026: Group 51
+    400028: Group#282
+    400030: Group#282 1
+    400032: Group#282 10
+    400034: Group#282 11
+    400036: Group#282 12
+    400038: Group#282 13
+    400040: Group#282 14
+    400042: Group#282 15
+    400044: Group#282 16
+    400046: Group#282 17
+    400048: Group#282 18
+    400050: Group#282 19
+    400052: Group#282 2
+    400054: Group#282 20
+    400056: Group#282 21
+    400058: Group#282 22
+    400060: Group#282 23
+    400062: Group#282 24
+    400064: Group#282 25
+    400066: Group#282 26
+    400068: Group#282 27
+    400070: Group#282 28
+    400072: Group#282 29
+    400074: Group#282 3
+    400076: Group#282 30
+    400078: Group#282 31
+    400080: Group#282 32
+    400082: Group#282 33
+    400084: Group#282 34
+    400086: Group#282 35
+    400088: Group#282 36
+    400090: Group#282 37
+    400092: Group#282 38
+    400094: Group#282 39
+    400096: Group#282 4
+    400098: Group#282 40
+    400100: Group#282 41
+    400102: Group#282 42
+    400104: Group#282 43
+    400106: Group#282 44
+    400108: Group#282 5
+    400110: Group#282 6
+    400112: Group#282 7
+    400114: Group#282 8
+    400116: Group#282 9
+    400118: Window_Curtains1
+    400120: Window_Curtains1 1
+    400122: Window_Curtains1 2
+    2300000: end
+    2300002: end 1
+    2300004: end 2
+    2300006: end 3
+    2300008: end 4
+    2300010: end 5
+    2300012: Group 26
+    2300014: Group 3
+    2300016: Group 49
+    3300000: end
+    3300002: end 1
+    3300004: end 2
+    3300006: end 3
+    3300008: end 4
+    3300010: end 5
+    3300012: Group 26
+    3300014: Group 3
+    3300016: Group 49
+    4300000: Mesh Group 3
+    4300002: Mesh end
+    4300004: Mesh end
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

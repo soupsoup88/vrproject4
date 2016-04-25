@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 0979f321961f54873ba560e92e22e10e
+timeCreated: 1461542434
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000
+  assetHash:
+    serializedVersion: 2
+    Hash: bf43bdbc132989d96491b5020889ca81
+  longitude: -119.86558847606572
+  latitude: 47.947314892404776
+  northCorrection: 357.8711344838372
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -222.99681, y: 146.91534, z: -333.68723}
+      lookAt: {x: -193.97035, y: 127.36966, z: -298.83414}
+      up: {x: 0.25325954, y: 0.9183596, z: 0.30409753}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Foot
+    100002: Gantry Crane#1
+    100004: Gantry Crane#1 1
+    100006: Generator
+    100008: Generator 1
+    100010: Generator 2
+    100012: Generator 3
+    100014: Generator 4
+    100016: Generator 5
+    100018: Generator 6
+    100020: Generator 7
+    100022: Generator 8
+    100024: Generator#1
+    100026: Google Earth Terrain
+    100028: //RootNode
+    400000: Foot
+    400002: Gantry Crane#1
+    400004: Gantry Crane#1 1
+    400006: Generator
+    400008: Generator 1
+    400010: Generator 2
+    400012: Generator 3
+    400014: Generator 4
+    400016: Generator 5
+    400018: Generator 6
+    400020: Generator 7
+    400022: Generator 8
+    400024: Generator#1
+    400026: Google Earth Terrain
+    400028: //RootNode
+    2300000: Foot
+    2300002: Gantry Crane#1
+    2300004: Gantry Crane#1 1
+    2300006: Generator
+    2300008: Generator 1
+    2300010: Generator 2
+    2300012: Generator 3
+    2300014: Generator 4
+    2300016: Generator 5
+    2300018: Generator 6
+    2300020: Generator 7
+    2300022: Generator 8
+    2300024: Generator#1
+    2300026: Google Earth Terrain
+    2300028: //RootNode
+    3300000: Foot
+    3300002: Gantry Crane#1
+    3300004: Gantry Crane#1 1
+    3300006: Generator
+    3300008: Generator 1
+    3300010: Generator 2
+    3300012: Generator 3
+    3300014: Generator 4
+    3300016: Generator 5
+    3300018: Generator 6
+    3300020: Generator 7
+    3300022: Generator 8
+    3300024: Generator#1
+    3300026: Google Earth Terrain
+    3300028: //RootNode
+    4300000: Mesh wells+dam
+    4300002: Mesh Google Earth Terrain
+    4300004: Mesh Foot
+    4300006: Mesh Generator
+    4300008: Mesh Generator#1
+    4300010: Mesh Gantry Crane#1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

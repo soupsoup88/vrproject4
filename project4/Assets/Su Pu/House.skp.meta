@@ -164,6 +164,40 @@ SketchUpImporter:
     4300000: Mesh House
     4300002: Mesh DoorKnob
     4300004: Mesh Group#2
+    6400000: DoorKnob
+    6400002: DoorKnob 1
+    6400004: DoorKnob 10
+    6400006: DoorKnob 11
+    6400008: DoorKnob 12
+    6400010: DoorKnob 13
+    6400012: DoorKnob 14
+    6400014: DoorKnob 15
+    6400016: DoorKnob 16
+    6400018: DoorKnob 17
+    6400020: DoorKnob 18
+    6400022: DoorKnob 19
+    6400024: DoorKnob 2
+    6400026: DoorKnob 20
+    6400028: DoorKnob 21
+    6400030: DoorKnob 22
+    6400032: DoorKnob 23
+    6400034: DoorKnob 24
+    6400036: DoorKnob 25
+    6400038: DoorKnob 26
+    6400040: DoorKnob 27
+    6400042: DoorKnob 28
+    6400044: DoorKnob 29
+    6400046: DoorKnob 3
+    6400048: DoorKnob 30
+    6400050: DoorKnob 31
+    6400052: DoorKnob 4
+    6400054: DoorKnob 5
+    6400056: DoorKnob 6
+    6400058: DoorKnob 7
+    6400060: DoorKnob 8
+    6400062: DoorKnob 9
+    6400064: Group#2
+    6400066: //RootNode
   materials:
     importMaterials: 1
     materialName: 2
@@ -190,7 +224,7 @@ SketchUpImporter:
     lODScreenPercentages: []
     globalScale: 0.0254
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

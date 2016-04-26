@@ -483,6 +483,107 @@ SketchUpImporter:
     4300074: Mesh Group 115
     4300076: Mesh Group 117
     4300078: Mesh Nut, M10
+    6400000: Bed Frame#1
+    6400002: Bed Frame#1 1
+    6400004: Group 101
+    6400006: Group 103
+    6400008: Group 105
+    6400010: Group 107
+    6400012: Group 109
+    6400014: Group 11
+    6400016: Group 111
+    6400018: Group 113
+    6400020: Group 115
+    6400022: Group 117
+    6400024: Group 123
+    6400026: Group 125
+    6400028: Group 127
+    6400030: Group 129
+    6400032: Group 13
+    6400034: Group 131
+    6400036: Group 133
+    6400038: Group 135
+    6400040: Group 137
+    6400042: Group 139
+    6400044: Group 141
+    6400046: Group 143
+    6400048: Group 145
+    6400050: Group 15
+    6400052: Group 151
+    6400054: Group 153
+    6400056: Group 155
+    6400058: Group 157
+    6400060: Group 159
+    6400062: Group 161
+    6400064: Group 163
+    6400066: Group 165
+    6400068: Group 167
+    6400070: Group 169
+    6400072: Group 171
+    6400074: Group 173
+    6400076: Group 179
+    6400078: Group 181
+    6400080: Group 183
+    6400082: Group 185
+    6400084: Group 187
+    6400086: Group 189
+    6400088: Group 19
+    6400090: Group 191
+    6400092: Group 193
+    6400094: Group 195
+    6400096: Group 197
+    6400098: Group 199
+    6400100: Group 201
+    6400102: Group 21
+    6400104: Group 23
+    6400106: Group 25
+    6400108: Group 27
+    6400110: Group 3
+    6400112: Group 31
+    6400114: Group 33
+    6400116: Group 35
+    6400118: Group 37
+    6400120: Group 39
+    6400122: Group 41
+    6400124: Group 43
+    6400126: Group 5
+    6400128: Group 7
+    6400130: Group 76
+    6400132: Group 78
+    6400134: Group 85
+    6400136: Group 95
+    6400138: Group 97
+    6400140: Group 99
+    6400142: Group#103
+    6400144: Group#63
+    6400146: Group#63 1
+    6400148: Group#63 2
+    6400150: Group#63 3
+    6400152: Group#69
+    6400154: Group#69 1
+    6400156: Group#69 2
+    6400158: Group#69 3
+    6400160: Group#78
+    6400162: Group#78 1
+    6400164: Group#78 2
+    6400166: Group#78 3
+    6400168: Group#81
+    6400170: Group#81 1
+    6400172: Group#81 2
+    6400174: Group#81 3
+    6400176: Group#85
+    6400178: Group#85 1
+    6400180: Group#85 2
+    6400182: Group#85 3
+    6400184: Group#90
+    6400186: Group#90 1
+    6400188: Image 2
+    6400190: mesh1_MeshPart0
+    6400192: mesh1_MeshPart1
+    6400194: Nut, M10
+    6400196: Nut, M10 1
+    6400198: Nut, M10 2
+    6400200: Nut, M10 3
   materials:
     importMaterials: 1
     materialName: 2
@@ -509,7 +610,7 @@ SketchUpImporter:
     lODScreenPercentages: []
     globalScale: 0.0254
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

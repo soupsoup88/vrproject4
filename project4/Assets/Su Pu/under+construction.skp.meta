@@ -644,6 +644,148 @@ SketchUpImporter:
     4300016: Mesh 2x4 12feet#2
     4300018: Mesh stud#1
     4300020: Mesh stud#2
+    6400000: 2x4 12feet
+    6400002: 2x4 12feet 1
+    6400004: 2x4 12feet 10
+    6400006: 2x4 12feet 11
+    6400008: 2x4 12feet 12
+    6400010: 2x4 12feet 13
+    6400012: 2x4 12feet 14
+    6400014: 2x4 12feet 15
+    6400016: 2x4 12feet 16
+    6400018: 2x4 12feet 17
+    6400020: 2x4 12feet 18
+    6400022: 2x4 12feet 19
+    6400024: 2x4 12feet 2
+    6400026: 2x4 12feet 20
+    6400028: 2x4 12feet 21
+    6400030: 2x4 12feet 22
+    6400032: 2x4 12feet 23
+    6400034: 2x4 12feet 24
+    6400036: 2x4 12feet 25
+    6400038: 2x4 12feet 26
+    6400040: 2x4 12feet 3
+    6400042: 2x4 12feet 4
+    6400044: 2x4 12feet 5
+    6400046: 2x4 12feet 6
+    6400048: 2x4 12feet 7
+    6400050: 2x4 12feet 8
+    6400052: 2x4 12feet 9
+    6400054: 2x4 12feet#1
+    6400056: 2x4 12feet#1 1
+    6400058: 2x4 12feet#2
+    6400060: 2x4 12feet#2 1
+    6400062: 30digger
+    6400064: howe girder
+    6400066: howe girder 1
+    6400068: howe girder 10
+    6400070: howe girder 11
+    6400072: howe girder 12
+    6400074: howe girder 13
+    6400076: howe girder 14
+    6400078: howe girder 15
+    6400080: howe girder 2
+    6400082: howe girder 3
+    6400084: howe girder 4
+    6400086: howe girder 5
+    6400088: howe girder 6
+    6400090: howe girder 7
+    6400092: howe girder 8
+    6400094: howe girder 9
+    6400096: Rock_Small_Brown
+    6400098: Rock_Small_Brown 1
+    6400100: Rock_Small_Brown 2
+    6400102: Rock_Small_Brown 3
+    6400104: stud
+    6400106: stud 1
+    6400108: stud 10
+    6400110: stud 11
+    6400112: stud 12
+    6400114: stud 13
+    6400116: stud 14
+    6400118: stud 15
+    6400120: stud 16
+    6400122: stud 17
+    6400124: stud 18
+    6400126: stud 19
+    6400128: stud 2
+    6400130: stud 20
+    6400132: stud 21
+    6400134: stud 22
+    6400136: stud 23
+    6400138: stud 24
+    6400140: stud 25
+    6400142: stud 26
+    6400144: stud 27
+    6400146: stud 28
+    6400148: stud 29
+    6400150: stud 3
+    6400152: stud 30
+    6400154: stud 31
+    6400156: stud 32
+    6400158: stud 33
+    6400160: stud 34
+    6400162: stud 35
+    6400164: stud 36
+    6400166: stud 37
+    6400168: stud 38
+    6400170: stud 39
+    6400172: stud 4
+    6400174: stud 40
+    6400176: stud 41
+    6400178: stud 42
+    6400180: stud 43
+    6400182: stud 44
+    6400184: stud 45
+    6400186: stud 46
+    6400188: stud 47
+    6400190: stud 48
+    6400192: stud 49
+    6400194: stud 5
+    6400196: stud 50
+    6400198: stud 51
+    6400200: stud 52
+    6400202: stud 53
+    6400204: stud 54
+    6400206: stud 55
+    6400208: stud 56
+    6400210: stud 57
+    6400212: stud 58
+    6400214: stud 59
+    6400216: stud 6
+    6400218: stud 60
+    6400220: stud 61
+    6400222: stud 62
+    6400224: stud 63
+    6400226: stud 64
+    6400228: stud 65
+    6400230: stud 66
+    6400232: stud 67
+    6400234: stud 68
+    6400236: stud 69
+    6400238: stud 7
+    6400240: stud 70
+    6400242: stud 71
+    6400244: stud 72
+    6400246: stud 73
+    6400248: stud 74
+    6400250: stud 75
+    6400252: stud 76
+    6400254: stud 77
+    6400256: stud 78
+    6400258: stud 79
+    6400260: stud 8
+    6400262: stud 80
+    6400264: stud 9
+    6400266: stud#1
+    6400268: stud#1 1
+    6400270: stud#2
+    6400272: stud#2 1
+    6400274: stud#2 2
+    6400276: stud#2 3
+    6400278: stud#3
+    6400280: stud#3 1
+    6400282: //RootNode
   materials:
     importMaterials: 1
     materialName: 2
@@ -670,7 +812,7 @@ SketchUpImporter:
     lODScreenPercentages: []
     globalScale: 0.0254
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

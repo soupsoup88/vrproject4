@@ -897,6 +897,193 @@ SketchUpImporter:
     4300086: Mesh ske1E6
     4300088: Mesh 2D_Woman_Gown_Evening
     4300090: Mesh crowd#1
+    6400000: 2D_Girl_Teen_Coat
+    6400002: 2D_Girl_Teen_Coat 1
+    6400004: 2D_Girl_Teen_Coat 2
+    6400006: 2D_Girl_Teen_Coat 3
+    6400008: 2D_Girl_Teen_Shorts
+    6400010: 2D_Girl_Teen_Shorts 1
+    6400012: 2D_Girl_Teen_Shorts 2
+    6400014: 2D_Girl_Teen_Shorts 3
+    6400016: 2D_Girl_Teen_Waiting
+    6400018: 2D_Girl_Teen_Waiting 1
+    6400020: 2D_Girl_Teen_Waiting 2
+    6400022: 2D_Girl_Teen_Waiting 3
+    6400024: 2D_Man_Backpack
+    6400026: 2D_Man_Backpack 1
+    6400028: 2D_Man_Backpack 2
+    6400030: 2D_Man_Backpack 3
+    6400032: 2D_Man_BaseballCap
+    6400034: 2D_Man_BaseballCap 1
+    6400036: 2D_Man_BaseballCap 2
+    6400038: 2D_Man_BaseballCap 3
+    6400040: 2D_Man_Blazer
+    6400042: 2D_Man_Blazer 1
+    6400044: 2D_Man_Blazer 2
+    6400046: 2D_Man_Blazer 3
+    6400048: 2D_Man_Casual
+    6400050: 2D_Man_Casual 1
+    6400052: 2D_Man_Casual 2
+    6400054: 2D_Man_Casual 3
+    6400056: 2D_Man_Pointing_Chris
+    6400058: 2D_Man_Pointing_Chris 1
+    6400060: 2D_Man_Pointing_Chris 2
+    6400062: 2D_Man_Pointing_Chris 3
+    6400064: 2D_Man_Skateboard
+    6400066: 2D_Man_Skateboard 1
+    6400068: 2D_Man_Skateboard 2
+    6400070: 2D_Man_Skateboard 3
+    6400072: 2D_Man_Suit
+    6400074: 2D_Man_Suit 1
+    6400076: 2D_Man_Suit 2
+    6400078: 2D_Man_Suit 3
+    6400080: 2D_Man_Suit_Barefoot
+    6400082: 2D_Man_Suit_Barefoot 1
+    6400084: 2D_Man_Suit_Barefoot 2
+    6400086: 2D_Man_Suit_Barefoot 3
+    6400088: 2D_Man_Suit_Barefoot#1
+    6400090: 2D_Man_Suit_Barefoot#1 1
+    6400092: 2D_Man_Suit_Barefoot#1 2
+    6400094: 2D_Man_Suit_Barefoot#1 3
+    6400096: 2D_Man_Suit_Looking Back
+    6400098: 2D_Man_Suit_Looking Back 1
+    6400100: 2D_Man_Suit_Looking Back 2
+    6400102: 2D_Man_Suit_Looking Back 3
+    6400104: 2D_Man_Walking_Dusty
+    6400106: 2D_Man_Walking_Dusty 1
+    6400108: 2D_Man_Walking_Dusty 2
+    6400110: 2D_Man_Walking_Dusty 3
+    6400112: 2D_Man_Walking_Dusty#1
+    6400114: 2D_Man_Walking_Dusty#1 1
+    6400116: 2D_Man_Walking_Dusty#1 2
+    6400118: 2D_Man_Walking_Dusty#1 3
+    6400120: 2D_Man_Walking_Side
+    6400122: 2D_Man_Walking_Side 1
+    6400124: 2D_Man_Walking_Side 2
+    6400126: 2D_Man_Walking_Side 3
+    6400128: 2D_Woman+Child
+    6400130: 2D_Woman+Child 1
+    6400132: 2D_Woman+Child 2
+    6400134: 2D_Woman+Child 3
+    6400136: 2D_Woman_Front
+    6400138: 2D_Woman_Front 1
+    6400140: 2D_Woman_Front 2
+    6400142: 2D_Woman_Front 3
+    6400144: 2D_Woman_Gown_Evening
+    6400146: 2D_Woman_Gown_Evening 1
+    6400148: 2D_Woman_Gown_Evening 2
+    6400150: 2D_Woman_Gown_Evening 3
+    6400152: 2D_Woman_Handbag
+    6400154: 2D_Woman_Handbag 1
+    6400156: 2D_Woman_Handbag 2
+    6400158: 2D_Woman_Handbag 3
+    6400160: 2D_Woman_Sweater
+    6400162: 2D_Woman_Sweater 1
+    6400164: 2D_Woman_Sweater 2
+    6400166: 2D_Woman_Sweater 3
+    6400168: 2D_Woman_Sweater 4
+    6400170: 2D_Woman_Sweater 5
+    6400172: 2D_Woman_Sweater 6
+    6400174: 2D_Woman_Sweater 7
+    6400176: 2D_Woman_Walking Away
+    6400178: 2D_Woman_Walking Away 1
+    6400180: 2D_Woman_Walking Away 2
+    6400182: 2D_Woman_Walking Away 3
+    6400184: 2D_Woman_Walking_Side
+    6400186: 2D_Woman_Walking_Side 1
+    6400188: 2D_Woman_Walking_Side 2
+    6400190: 2D_Woman_Walking_Side 3
+    6400192: Bryce
+    6400194: Bryce 1
+    6400196: Bryce 2
+    6400198: Bryce 3
+    6400200: crowd#1
+    6400202: crowd#1 1
+    6400204: Food Eater
+    6400206: Food Eater 1
+    6400208: Food Eater 2
+    6400210: Food Eater 3
+    6400212: Group 10
+    6400214: Group 111
+    6400216: Group 113
+    6400218: Group 12
+    6400220: Group 212
+    6400222: Group 214
+    6400224: Group 313
+    6400226: Group 315
+    6400228: man#1
+    6400230: man#1 1
+    6400232: man#1 2
+    6400234: man#1 3
+    6400236: Seb 2D
+    6400238: Seb 2D 1
+    6400240: Seb 2D 2
+    6400242: Seb 2D 3
+    6400244: ske102
+    6400246: ske102 1
+    6400248: ske102 2
+    6400250: ske102 3
+    6400252: ske1DB
+    6400254: ske1DB 1
+    6400256: ske1DB 2
+    6400258: ske1DB 3
+    6400260: ske1DC
+    6400262: ske1DC 1
+    6400264: ske1DC 2
+    6400266: ske1DC 3
+    6400268: ske1DD
+    6400270: ske1DD 1
+    6400272: ske1DD 2
+    6400274: ske1DD 3
+    6400276: ske1DE
+    6400278: ske1DE 1
+    6400280: ske1DE 2
+    6400282: ske1DE 3
+    6400284: ske1DF
+    6400286: ske1DF 1
+    6400288: ske1DF 2
+    6400290: ske1DF 3
+    6400292: ske1E0
+    6400294: ske1E0 1
+    6400296: ske1E0 2
+    6400298: ske1E0 3
+    6400300: ske1E1
+    6400302: ske1E1 1
+    6400304: ske1E1 2
+    6400306: ske1E1 3
+    6400308: ske1E3
+    6400310: ske1E3 1
+    6400312: ske1E3 2
+    6400314: ske1E3 3
+    6400316: ske1E4
+    6400318: ske1E4 1
+    6400320: ske1E4 2
+    6400322: ske1E4 3
+    6400324: ske1E6
+    6400326: ske1E6 1
+    6400328: ske1E6 2
+    6400330: ske1E6 3
+    6400332: ske1E8
+    6400334: ske1E8 1
+    6400336: ske1E8 2
+    6400338: ske1E8 3
+    6400340: ske1EA
+    6400342: ske1EA 1
+    6400344: ske1EA 2
+    6400346: ske1EA 3
+    6400348: Sophie
+    6400350: tommy
+    6400352: tommy 1
+    6400354: tommy 2
+    6400356: tommy 3
+    6400358: Woman_1
+    6400360: Woman_1 1
+    6400362: Woman_1 2
+    6400364: Woman_1 3
+    6400366: Woman_2
+    6400368: Woman_2 1
+    6400370: Woman_2 2
+    6400372: Woman_2 3
   materials:
     importMaterials: 1
     materialName: 2
@@ -923,7 +1110,7 @@ SketchUpImporter:
     lODScreenPercentages: []
     globalScale: 0.0254
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

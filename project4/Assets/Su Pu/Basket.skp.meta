@@ -65,6 +65,14 @@ SketchUpImporter:
     4300002: Mesh basket1_quarter
     4300004: Mesh ske145
     4300006: Mesh Component#1
+    6400000: basket1_quarter
+    6400002: basket1_quarter 1
+    6400004: basket1_quarter 2
+    6400006: basket1_quarter 3
+    6400008: Component#1
+    6400010: Component#1 1
+    6400012: ske145
+    6400014: ske3F66
   materials:
     importMaterials: 1
     materialName: 2
@@ -91,7 +99,7 @@ SketchUpImporter:
     lODScreenPercentages: []
     globalScale: 0.0254
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

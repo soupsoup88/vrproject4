@@ -170,6 +170,15 @@ SketchUpImporter:
     4300000: Mesh Group 3
     4300002: Mesh end
     4300004: Mesh end
+    6400000: end
+    6400002: end 1
+    6400004: end 2
+    6400006: end 3
+    6400008: end 4
+    6400010: end 5
+    6400012: Group 26
+    6400014: Group 3
+    6400016: Group 49
   materials:
     importMaterials: 1
     materialName: 2
@@ -196,7 +205,7 @@ SketchUpImporter:
     lODScreenPercentages: []
     globalScale: 0.0254
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

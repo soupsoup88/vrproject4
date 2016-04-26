@@ -52,6 +52,15 @@ ModelImporter:
     4300012: door - l
     4300014: door - r
     4300016: Object01
+    6400000: body
+    6400002: door - l
+    6400004: door - r
+    6400006: glass
+    6400008: Object01
+    6400010: wheel l-1
+    6400012: wheel l-2
+    6400014: wheel r-1
+    6400016: wheel r-2
   materials:
     importMaterials: 1
     materialName: 0
@@ -78,7 +87,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

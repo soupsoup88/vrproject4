@@ -117,6 +117,24 @@ SketchUpImporter:
     4300030: Mesh Component#5
     4300032: Mesh Component#6
     4300034: Mesh Component#7
+    6400000: Castor_Whe
+    6400002: Castors
+    6400004: Component#1
+    6400006: Component#2
+    6400008: Component#3
+    6400010: Component#4
+    6400012: Component#5
+    6400014: Component#6
+    6400016: Component#7
+    6400018: Frame01
+    6400020: Frame02
+    6400022: Frame03
+    6400024: Frame04
+    6400026: Frame06
+    6400028: Head_Board
+    6400030: //RootNode
+    6400032: Mattress
+    6400034: Mattress#1
   materials:
     importMaterials: 1
     materialName: 2
@@ -143,7 +161,7 @@ SketchUpImporter:
     lODScreenPercentages: []
     globalScale: 0.0254
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

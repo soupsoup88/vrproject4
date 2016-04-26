@@ -41,6 +41,7 @@ SketchUpImporter:
     2300000: Group 1
     3300000: Group 1
     4300000: Mesh Group 1
+    6400000: Group 1
   materials:
     importMaterials: 1
     materialName: 2
@@ -67,7 +68,7 @@ SketchUpImporter:
     lODScreenPercentages: []
     globalScale: 0.0254
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

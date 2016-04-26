@@ -71,6 +71,14 @@ SketchUpImporter:
     4300010: Mesh Component#6
     4300012: Mesh Component#2
     4300014: Mesh Component#4
+    6400000: Component#1
+    6400002: Component#11
+    6400004: Component#2
+    6400006: Component#3
+    6400008: Component#4
+    6400010: Component#5
+    6400012: Component#6
+    6400014: Component#7
   materials:
     importMaterials: 1
     materialName: 2
@@ -97,7 +105,7 @@ SketchUpImporter:
     lODScreenPercentages: []
     globalScale: 0.0254
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

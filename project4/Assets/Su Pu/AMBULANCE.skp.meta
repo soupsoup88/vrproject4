@@ -483,6 +483,93 @@ SketchUpImporter:
     4300110: Mesh Group 194
     4300112: Mesh Group 196
     4300114: Mesh Group 198
+    6400000: 1971 chevy cab and chassis
+    6400002: 'A M B U L A N C '
+    6400004: 'A M B U L A N C #1'
+    6400006: 'A M B U L A N C #2'
+    6400008: AMBULANCE
+    6400010: bottom
+    6400012: bottom 1
+    6400014: Component#5
+    6400016: Componente#1
+    6400018: Group 134
+    6400020: Group 140
+    6400022: Group 148
+    6400024: Group 152
+    6400026: Group 156
+    6400028: Group 160
+    6400030: Group 162
+    6400032: Group 164
+    6400034: Group 166
+    6400036: Group 168
+    6400038: Group 170
+    6400040: Group 172
+    6400042: Group 174
+    6400044: Group 176
+    6400046: Group 178
+    6400048: Group 185
+    6400050: Group 187
+    6400052: Group 189
+    6400054: Group 191
+    6400056: Group 194
+    6400058: Group 196
+    6400060: Group 198
+    6400062: Group 31
+    6400064: Group 33
+    6400066: Group 35
+    6400068: Group 37
+    6400070: Group 45
+    6400072: Group 47
+    6400074: Group 51
+    6400076: Group 68
+    6400078: Group 7
+    6400080: Group#10
+    6400082: Group#12
+    6400084: Group#15
+    6400086: Group#17
+    6400088: Group#17 1
+    6400090: Group#17 2
+    6400092: Group#17 3
+    6400094: Group#17 4
+    6400096: Group#17 5
+    6400098: Group#17 6
+    6400100: Group#17 7
+    6400102: Group#17 8
+    6400104: Group#4
+    6400106: Group#5
+    6400108: Group#50
+    6400110: Group#50 1
+    6400112: Group#50 2
+    6400114: Group#50 3
+    6400116: Group#50 4
+    6400118: Group#50 5
+    6400120: Group#50 6
+    6400122: Group#50 7
+    6400124: Group#7
+    6400126: Group#8
+    6400128: Group#9
+    6400130: Gruppo#22
+    6400132: Gruppo#22 1
+    6400134: plafon micas whelen
+    6400136: plafon micas whelen 1
+    6400138: plafon whelen
+    6400140: plafon whelen 1
+    6400142: plafon whelen strobe y foco de frontal
+    6400144: plafon whelen strobe y foco de frontal 1
+    6400146: Silver laptop computer
+    6400148: Star_of_Life
+    6400150: Star_of_Life 1
+    6400152: Star_of_Life 2
+    6400154: Star_of_Life 3
+    6400156: Star_of_Life 4
+    6400158: taillight2#1
+    6400160: taillight2#2
+    6400162: taillight2#6
+    6400164: taillight2#6 1
+    6400166: top
+    6400168: top 1
+    6400170: window
+    6400172: windscre01
   materials:
     importMaterials: 1
     materialName: 2
@@ -509,7 +596,7 @@ SketchUpImporter:
     lODScreenPercentages: []
     globalScale: 0.0254
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

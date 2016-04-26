@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: b832a1f1171a74f799d1823d8da3fd27
+timeCreated: 1461533746
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: b684bb316012dfb352f80fd1095b9f98
+  longitude: 2.183
+  latitude: 41.383
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 3.14992, y: -0.21642828, z: 2.670229}
+      lookAt: {x: 3.150019, y: 24.322815, z: 2.590795}
+      up: {x: -0.0012474753, y: 0.0032370007, z: 0.999994}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 'How to become a '
+    100002: 'IDX Ceiling Light #06'
+    100004: 'IDX Wall Light #02'
+    100006: Lamp
+    100008: monitor
+    100010: //RootNode
+    100012: Point for ceiling light
+    100014: silla1
+    400000: 'How to become a '
+    400002: 'IDX Ceiling Light #06'
+    400004: 'IDX Wall Light #02'
+    400006: Lamp
+    400008: monitor
+    400010: //RootNode
+    400012: Point for ceiling light
+    400014: silla1
+    2300000: 'How to become a '
+    2300002: 'IDX Ceiling Light #06'
+    2300004: 'IDX Wall Light #02'
+    2300006: Lamp
+    2300008: monitor
+    2300010: //RootNode
+    2300012: silla1
+    3300000: 'How to become a '
+    3300002: 'IDX Ceiling Light #06'
+    3300004: 'IDX Wall Light #02'
+    3300006: Lamp
+    3300008: monitor
+    3300010: //RootNode
+    3300012: silla1
+    4300000: Mesh oficina2 (1)
+    4300002: Mesh silla1
+    4300004: 'Mesh IDX Ceiling Light #06'
+    4300006: 'Mesh IDX Wall Light #02'
+    4300008: Mesh Lamp
+    4300010: Mesh monitor
+    4300012: 'Mesh How to become a '
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

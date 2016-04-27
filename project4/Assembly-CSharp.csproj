@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Scripts\ScrollingUVs.cs" />
      <Compile Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
      <Compile Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Standard Assets\Water (Pro Only)\Sources\Scripts\Water.cs" />
@@ -103,6 +104,11 @@
      <Compile Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
      <Compile Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
      <Compile Include="Assets\Su Pu\SkySphere_V1\Examples\Gui.cs" />
+     <Compile Include="Assets\clickcomputer.cs" />
+     <Compile Include="Assets\computerlast.cs" />
+     <Compile Include="Assets\cuttree.cs" />
+     <Compile Include="Assets\granny.cs" />
+     <Compile Include="Assets\treefall.cs" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />

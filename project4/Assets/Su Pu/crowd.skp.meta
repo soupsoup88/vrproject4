@@ -1,0 +1,1150 @@
+fileFormatVersion: 2
+guid: 27191b6de8ba4447f8ddcb2d9e38c3da
+timeCreated: 1461606189
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 5c3e9c9d36a7a631e4c795b65f1e827e
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 3.6725123, y: 1.6178172, z: -12.240541}
+      lookAt: {x: 4.6221094, y: -0.46742886, z: 12.191627}
+      up: {x: 0.0033002247, y: 0.9963831, z: 0.08491142}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 2D_Girl_Teen_Coat
+    100002: 2D_Girl_Teen_Coat 1
+    100004: 2D_Girl_Teen_Coat 2
+    100006: 2D_Girl_Teen_Coat 3
+    100008: 2D_Girl_Teen_Shorts
+    100010: 2D_Girl_Teen_Shorts 1
+    100012: 2D_Girl_Teen_Shorts 2
+    100014: 2D_Girl_Teen_Shorts 3
+    100016: 2D_Girl_Teen_Waiting
+    100018: 2D_Girl_Teen_Waiting 1
+    100020: 2D_Girl_Teen_Waiting 2
+    100022: 2D_Girl_Teen_Waiting 3
+    100024: 2D_Group_Women_Talking
+    100026: 2D_Group_Women_Talking 1
+    100028: 2D_Group_Women_Talking 2
+    100030: 2D_Group_Women_Talking 3
+    100032: 2D_Man_Backpack
+    100034: 2D_Man_Backpack 1
+    100036: 2D_Man_Backpack 2
+    100038: 2D_Man_Backpack 3
+    100040: 2D_Man_BaseballCap
+    100042: 2D_Man_BaseballCap 1
+    100044: 2D_Man_BaseballCap 2
+    100046: 2D_Man_BaseballCap 3
+    100048: 2D_Man_Blazer
+    100050: 2D_Man_Blazer 1
+    100052: 2D_Man_Blazer 2
+    100054: 2D_Man_Blazer 3
+    100056: 2D_Man_Casual
+    100058: 2D_Man_Casual 1
+    100060: 2D_Man_Casual 2
+    100062: 2D_Man_Casual 3
+    100064: 2D_Man_Pointing_Chris
+    100066: 2D_Man_Pointing_Chris 1
+    100068: 2D_Man_Pointing_Chris 2
+    100070: 2D_Man_Pointing_Chris 3
+    100072: 2D_Man_Skateboard
+    100074: 2D_Man_Skateboard 1
+    100076: 2D_Man_Skateboard 2
+    100078: 2D_Man_Skateboard 3
+    100080: 2D_Man_Suit
+    100082: 2D_Man_Suit 1
+    100084: 2D_Man_Suit 2
+    100086: 2D_Man_Suit 3
+    100088: 2D_Man_Suit_Barefoot
+    100090: 2D_Man_Suit_Barefoot 1
+    100092: 2D_Man_Suit_Barefoot 2
+    100094: 2D_Man_Suit_Barefoot 3
+    100096: 2D_Man_Suit_Barefoot#1
+    100098: 2D_Man_Suit_Barefoot#1 1
+    100100: 2D_Man_Suit_Barefoot#1 2
+    100102: 2D_Man_Suit_Barefoot#1 3
+    100104: 2D_Man_Suit_Looking Back
+    100106: 2D_Man_Suit_Looking Back 1
+    100108: 2D_Man_Suit_Looking Back 2
+    100110: 2D_Man_Suit_Looking Back 3
+    100112: 2D_Man_Walking_Dusty
+    100114: 2D_Man_Walking_Dusty 1
+    100116: 2D_Man_Walking_Dusty 2
+    100118: 2D_Man_Walking_Dusty 3
+    100120: 2D_Man_Walking_Dusty#1
+    100122: 2D_Man_Walking_Dusty#1 1
+    100124: 2D_Man_Walking_Dusty#1 2
+    100126: 2D_Man_Walking_Dusty#1 3
+    100128: 2D_Man_Walking_Side
+    100130: 2D_Man_Walking_Side 1
+    100132: 2D_Man_Walking_Side 2
+    100134: 2D_Man_Walking_Side 3
+    100136: 2D_Woman+Child
+    100138: 2D_Woman+Child 1
+    100140: 2D_Woman+Child 2
+    100142: 2D_Woman+Child 3
+    100144: 2D_Woman_Front
+    100146: 2D_Woman_Front 1
+    100148: 2D_Woman_Front 2
+    100150: 2D_Woman_Front 3
+    100152: 2D_Woman_Gown_Evening
+    100154: 2D_Woman_Gown_Evening 1
+    100156: 2D_Woman_Gown_Evening 2
+    100158: 2D_Woman_Gown_Evening 3
+    100160: 2D_Woman_Handbag
+    100162: 2D_Woman_Handbag 1
+    100164: 2D_Woman_Handbag 2
+    100166: 2D_Woman_Handbag 3
+    100168: 2D_Woman_Sweater
+    100170: 2D_Woman_Sweater 1
+    100172: 2D_Woman_Sweater 2
+    100174: 2D_Woman_Sweater 3
+    100176: 2D_Woman_Sweater 4
+    100178: 2D_Woman_Sweater 5
+    100180: 2D_Woman_Sweater 6
+    100182: 2D_Woman_Sweater 7
+    100184: 2D_Woman_Walking Away
+    100186: 2D_Woman_Walking Away 1
+    100188: 2D_Woman_Walking Away 2
+    100190: 2D_Woman_Walking Away 3
+    100192: 2D_Woman_Walking_Side
+    100194: 2D_Woman_Walking_Side 1
+    100196: 2D_Woman_Walking_Side 2
+    100198: 2D_Woman_Walking_Side 3
+    100200: 3D Crowd
+    100202: 3D Crowd 1
+    100204: Bryce
+    100206: Bryce 1
+    100208: Bryce 2
+    100210: Bryce 3
+    100212: Crowd
+    100214: //RootNode
+    100216: Crowd 1
+    100218: Crowd 2
+    100220: Crowd 3
+    100222: crowd#1
+    100224: crowd#1 1
+    100226: Food Eater
+    100228: Food Eater 1
+    100230: Food Eater 2
+    100232: Food Eater 3
+    100234: Group 10
+    100236: Group 106
+    100238: Group 111
+    100240: Group 113
+    100242: Group 117
+    100244: Group 12
+    100246: Group 16
+    100248: Group 207
+    100250: Group 212
+    100252: Group 214
+    100254: Group 218
+    100256: Group 308
+    100258: Group 313
+    100260: Group 315
+    100262: Group 319
+    100264: Group 5
+    100266: man#1
+    100268: man#1 1
+    100270: man#1 2
+    100272: man#1 3
+    100274: People
+    100276: People 1
+    100278: People 2
+    100280: People 3
+    100282: Seb 2D
+    100284: Seb 2D 1
+    100286: Seb 2D 2
+    100288: Seb 2D 3
+    100290: ske102
+    100292: ske102 1
+    100294: ske102 2
+    100296: ske102 3
+    100298: ske103
+    100300: ske103 1
+    100302: ske103 2
+    100304: ske103 3
+    100306: ske1DB
+    100308: ske1DB 1
+    100310: ske1DB 2
+    100312: ske1DB 3
+    100314: ske1DC
+    100316: ske1DC 1
+    100318: ske1DC 2
+    100320: ske1DC 3
+    100322: ske1DD
+    100324: ske1DD 1
+    100326: ske1DD 2
+    100328: ske1DD 3
+    100330: ske1DE
+    100332: ske1DE 1
+    100334: ske1DE 2
+    100336: ske1DE 3
+    100338: ske1DF
+    100340: ske1DF 1
+    100342: ske1DF 2
+    100344: ske1DF 3
+    100346: ske1E0
+    100348: ske1E0 1
+    100350: ske1E0 2
+    100352: ske1E0 3
+    100354: ske1E1
+    100356: ske1E1 1
+    100358: ske1E1 2
+    100360: ske1E1 3
+    100362: ske1E2
+    100364: ske1E2 1
+    100366: ske1E2 2
+    100368: ske1E2 3
+    100370: ske1E3
+    100372: ske1E3 1
+    100374: ske1E3 2
+    100376: ske1E3 3
+    100378: ske1E4
+    100380: ske1E4 1
+    100382: ske1E4 2
+    100384: ske1E4 3
+    100386: ske1E5
+    100388: ske1E5 1
+    100390: ske1E5 2
+    100392: ske1E5 3
+    100394: ske1E6
+    100396: ske1E6 1
+    100398: ske1E6 2
+    100400: ske1E6 3
+    100402: ske1E8
+    100404: ske1E8 1
+    100406: ske1E8 2
+    100408: ske1E8 3
+    100410: ske1EA
+    100412: ske1EA 1
+    100414: ske1EA 2
+    100416: ske1EA 3
+    100418: ske1EE
+    100420: ske1EE 1
+    100422: ske1EE 2
+    100424: ske1EE 3
+    100426: Sophie
+    100428: tommy
+    100430: tommy 1
+    100432: tommy 2
+    100434: tommy 3
+    100436: Woman_1
+    100438: Woman_1 1
+    100440: Woman_1 2
+    100442: Woman_1 3
+    100444: Woman_2
+    100446: Woman_2 1
+    100448: Woman_2 2
+    100450: Woman_2 3
+    400000: 2D_Girl_Teen_Coat
+    400002: 2D_Girl_Teen_Coat 1
+    400004: 2D_Girl_Teen_Coat 2
+    400006: 2D_Girl_Teen_Coat 3
+    400008: 2D_Girl_Teen_Shorts
+    400010: 2D_Girl_Teen_Shorts 1
+    400012: 2D_Girl_Teen_Shorts 2
+    400014: 2D_Girl_Teen_Shorts 3
+    400016: 2D_Girl_Teen_Waiting
+    400018: 2D_Girl_Teen_Waiting 1
+    400020: 2D_Girl_Teen_Waiting 2
+    400022: 2D_Girl_Teen_Waiting 3
+    400024: 2D_Group_Women_Talking
+    400026: 2D_Group_Women_Talking 1
+    400028: 2D_Group_Women_Talking 2
+    400030: 2D_Group_Women_Talking 3
+    400032: 2D_Man_Backpack
+    400034: 2D_Man_Backpack 1
+    400036: 2D_Man_Backpack 2
+    400038: 2D_Man_Backpack 3
+    400040: 2D_Man_BaseballCap
+    400042: 2D_Man_BaseballCap 1
+    400044: 2D_Man_BaseballCap 2
+    400046: 2D_Man_BaseballCap 3
+    400048: 2D_Man_Blazer
+    400050: 2D_Man_Blazer 1
+    400052: 2D_Man_Blazer 2
+    400054: 2D_Man_Blazer 3
+    400056: 2D_Man_Casual
+    400058: 2D_Man_Casual 1
+    400060: 2D_Man_Casual 2
+    400062: 2D_Man_Casual 3
+    400064: 2D_Man_Pointing_Chris
+    400066: 2D_Man_Pointing_Chris 1
+    400068: 2D_Man_Pointing_Chris 2
+    400070: 2D_Man_Pointing_Chris 3
+    400072: 2D_Man_Skateboard
+    400074: 2D_Man_Skateboard 1
+    400076: 2D_Man_Skateboard 2
+    400078: 2D_Man_Skateboard 3
+    400080: 2D_Man_Suit
+    400082: 2D_Man_Suit 1
+    400084: 2D_Man_Suit 2
+    400086: 2D_Man_Suit 3
+    400088: 2D_Man_Suit_Barefoot
+    400090: 2D_Man_Suit_Barefoot 1
+    400092: 2D_Man_Suit_Barefoot 2
+    400094: 2D_Man_Suit_Barefoot 3
+    400096: 2D_Man_Suit_Barefoot#1
+    400098: 2D_Man_Suit_Barefoot#1 1
+    400100: 2D_Man_Suit_Barefoot#1 2
+    400102: 2D_Man_Suit_Barefoot#1 3
+    400104: 2D_Man_Suit_Looking Back
+    400106: 2D_Man_Suit_Looking Back 1
+    400108: 2D_Man_Suit_Looking Back 2
+    400110: 2D_Man_Suit_Looking Back 3
+    400112: 2D_Man_Walking_Dusty
+    400114: 2D_Man_Walking_Dusty 1
+    400116: 2D_Man_Walking_Dusty 2
+    400118: 2D_Man_Walking_Dusty 3
+    400120: 2D_Man_Walking_Dusty#1
+    400122: 2D_Man_Walking_Dusty#1 1
+    400124: 2D_Man_Walking_Dusty#1 2
+    400126: 2D_Man_Walking_Dusty#1 3
+    400128: 2D_Man_Walking_Side
+    400130: 2D_Man_Walking_Side 1
+    400132: 2D_Man_Walking_Side 2
+    400134: 2D_Man_Walking_Side 3
+    400136: 2D_Woman+Child
+    400138: 2D_Woman+Child 1
+    400140: 2D_Woman+Child 2
+    400142: 2D_Woman+Child 3
+    400144: 2D_Woman_Front
+    400146: 2D_Woman_Front 1
+    400148: 2D_Woman_Front 2
+    400150: 2D_Woman_Front 3
+    400152: 2D_Woman_Gown_Evening
+    400154: 2D_Woman_Gown_Evening 1
+    400156: 2D_Woman_Gown_Evening 2
+    400158: 2D_Woman_Gown_Evening 3
+    400160: 2D_Woman_Handbag
+    400162: 2D_Woman_Handbag 1
+    400164: 2D_Woman_Handbag 2
+    400166: 2D_Woman_Handbag 3
+    400168: 2D_Woman_Sweater
+    400170: 2D_Woman_Sweater 1
+    400172: 2D_Woman_Sweater 2
+    400174: 2D_Woman_Sweater 3
+    400176: 2D_Woman_Sweater 4
+    400178: 2D_Woman_Sweater 5
+    400180: 2D_Woman_Sweater 6
+    400182: 2D_Woman_Sweater 7
+    400184: 2D_Woman_Walking Away
+    400186: 2D_Woman_Walking Away 1
+    400188: 2D_Woman_Walking Away 2
+    400190: 2D_Woman_Walking Away 3
+    400192: 2D_Woman_Walking_Side
+    400194: 2D_Woman_Walking_Side 1
+    400196: 2D_Woman_Walking_Side 2
+    400198: 2D_Woman_Walking_Side 3
+    400200: 3D Crowd
+    400202: 3D Crowd 1
+    400204: Bryce
+    400206: Bryce 1
+    400208: Bryce 2
+    400210: Bryce 3
+    400212: Crowd
+    400214: //RootNode
+    400216: Crowd 1
+    400218: Crowd 2
+    400220: Crowd 3
+    400222: crowd#1
+    400224: crowd#1 1
+    400226: Food Eater
+    400228: Food Eater 1
+    400230: Food Eater 2
+    400232: Food Eater 3
+    400234: Group 10
+    400236: Group 106
+    400238: Group 111
+    400240: Group 113
+    400242: Group 117
+    400244: Group 12
+    400246: Group 16
+    400248: Group 207
+    400250: Group 212
+    400252: Group 214
+    400254: Group 218
+    400256: Group 308
+    400258: Group 313
+    400260: Group 315
+    400262: Group 319
+    400264: Group 5
+    400266: man#1
+    400268: man#1 1
+    400270: man#1 2
+    400272: man#1 3
+    400274: People
+    400276: People 1
+    400278: People 2
+    400280: People 3
+    400282: Seb 2D
+    400284: Seb 2D 1
+    400286: Seb 2D 2
+    400288: Seb 2D 3
+    400290: ske102
+    400292: ske102 1
+    400294: ske102 2
+    400296: ske102 3
+    400298: ske103
+    400300: ske103 1
+    400302: ske103 2
+    400304: ske103 3
+    400306: ske1DB
+    400308: ske1DB 1
+    400310: ske1DB 2
+    400312: ske1DB 3
+    400314: ske1DC
+    400316: ske1DC 1
+    400318: ske1DC 2
+    400320: ske1DC 3
+    400322: ske1DD
+    400324: ske1DD 1
+    400326: ske1DD 2
+    400328: ske1DD 3
+    400330: ske1DE
+    400332: ske1DE 1
+    400334: ske1DE 2
+    400336: ske1DE 3
+    400338: ske1DF
+    400340: ske1DF 1
+    400342: ske1DF 2
+    400344: ske1DF 3
+    400346: ske1E0
+    400348: ske1E0 1
+    400350: ske1E0 2
+    400352: ske1E0 3
+    400354: ske1E1
+    400356: ske1E1 1
+    400358: ske1E1 2
+    400360: ske1E1 3
+    400362: ske1E2
+    400364: ske1E2 1
+    400366: ske1E2 2
+    400368: ske1E2 3
+    400370: ske1E3
+    400372: ske1E3 1
+    400374: ske1E3 2
+    400376: ske1E3 3
+    400378: ske1E4
+    400380: ske1E4 1
+    400382: ske1E4 2
+    400384: ske1E4 3
+    400386: ske1E5
+    400388: ske1E5 1
+    400390: ske1E5 2
+    400392: ske1E5 3
+    400394: ske1E6
+    400396: ske1E6 1
+    400398: ske1E6 2
+    400400: ske1E6 3
+    400402: ske1E8
+    400404: ske1E8 1
+    400406: ske1E8 2
+    400408: ske1E8 3
+    400410: ske1EA
+    400412: ske1EA 1
+    400414: ske1EA 2
+    400416: ske1EA 3
+    400418: ske1EE
+    400420: ske1EE 1
+    400422: ske1EE 2
+    400424: ske1EE 3
+    400426: Sophie
+    400428: tommy
+    400430: tommy 1
+    400432: tommy 2
+    400434: tommy 3
+    400436: Woman_1
+    400438: Woman_1 1
+    400440: Woman_1 2
+    400442: Woman_1 3
+    400444: Woman_2
+    400446: Woman_2 1
+    400448: Woman_2 2
+    400450: Woman_2 3
+    2300000: 2D_Girl_Teen_Coat
+    2300002: 2D_Girl_Teen_Coat 1
+    2300004: 2D_Girl_Teen_Coat 2
+    2300006: 2D_Girl_Teen_Coat 3
+    2300008: 2D_Girl_Teen_Shorts
+    2300010: 2D_Girl_Teen_Shorts 1
+    2300012: 2D_Girl_Teen_Shorts 2
+    2300014: 2D_Girl_Teen_Shorts 3
+    2300016: 2D_Girl_Teen_Waiting
+    2300018: 2D_Girl_Teen_Waiting 1
+    2300020: 2D_Girl_Teen_Waiting 2
+    2300022: 2D_Girl_Teen_Waiting 3
+    2300024: 2D_Man_Backpack
+    2300026: 2D_Man_Backpack 1
+    2300028: 2D_Man_Backpack 2
+    2300030: 2D_Man_Backpack 3
+    2300032: 2D_Man_BaseballCap
+    2300034: 2D_Man_BaseballCap 1
+    2300036: 2D_Man_BaseballCap 2
+    2300038: 2D_Man_BaseballCap 3
+    2300040: 2D_Man_Blazer
+    2300042: 2D_Man_Blazer 1
+    2300044: 2D_Man_Blazer 2
+    2300046: 2D_Man_Blazer 3
+    2300048: 2D_Man_Casual
+    2300050: 2D_Man_Casual 1
+    2300052: 2D_Man_Casual 2
+    2300054: 2D_Man_Casual 3
+    2300056: 2D_Man_Pointing_Chris
+    2300058: 2D_Man_Pointing_Chris 1
+    2300060: 2D_Man_Pointing_Chris 2
+    2300062: 2D_Man_Pointing_Chris 3
+    2300064: 2D_Man_Skateboard
+    2300066: 2D_Man_Skateboard 1
+    2300068: 2D_Man_Skateboard 2
+    2300070: 2D_Man_Skateboard 3
+    2300072: 2D_Man_Suit
+    2300074: 2D_Man_Suit 1
+    2300076: 2D_Man_Suit 2
+    2300078: 2D_Man_Suit 3
+    2300080: 2D_Man_Suit_Barefoot
+    2300082: 2D_Man_Suit_Barefoot 1
+    2300084: 2D_Man_Suit_Barefoot 2
+    2300086: 2D_Man_Suit_Barefoot 3
+    2300088: 2D_Man_Suit_Barefoot#1
+    2300090: 2D_Man_Suit_Barefoot#1 1
+    2300092: 2D_Man_Suit_Barefoot#1 2
+    2300094: 2D_Man_Suit_Barefoot#1 3
+    2300096: 2D_Man_Suit_Looking Back
+    2300098: 2D_Man_Suit_Looking Back 1
+    2300100: 2D_Man_Suit_Looking Back 2
+    2300102: 2D_Man_Suit_Looking Back 3
+    2300104: 2D_Man_Walking_Dusty
+    2300106: 2D_Man_Walking_Dusty 1
+    2300108: 2D_Man_Walking_Dusty 2
+    2300110: 2D_Man_Walking_Dusty 3
+    2300112: 2D_Man_Walking_Dusty#1
+    2300114: 2D_Man_Walking_Dusty#1 1
+    2300116: 2D_Man_Walking_Dusty#1 2
+    2300118: 2D_Man_Walking_Dusty#1 3
+    2300120: 2D_Man_Walking_Side
+    2300122: 2D_Man_Walking_Side 1
+    2300124: 2D_Man_Walking_Side 2
+    2300126: 2D_Man_Walking_Side 3
+    2300128: 2D_Woman+Child
+    2300130: 2D_Woman+Child 1
+    2300132: 2D_Woman+Child 2
+    2300134: 2D_Woman+Child 3
+    2300136: 2D_Woman_Front
+    2300138: 2D_Woman_Front 1
+    2300140: 2D_Woman_Front 2
+    2300142: 2D_Woman_Front 3
+    2300144: 2D_Woman_Gown_Evening
+    2300146: 2D_Woman_Gown_Evening 1
+    2300148: 2D_Woman_Gown_Evening 2
+    2300150: 2D_Woman_Gown_Evening 3
+    2300152: 2D_Woman_Handbag
+    2300154: 2D_Woman_Handbag 1
+    2300156: 2D_Woman_Handbag 2
+    2300158: 2D_Woman_Handbag 3
+    2300160: 2D_Woman_Sweater
+    2300162: 2D_Woman_Sweater 1
+    2300164: 2D_Woman_Sweater 2
+    2300166: 2D_Woman_Sweater 3
+    2300168: 2D_Woman_Sweater 4
+    2300170: 2D_Woman_Sweater 5
+    2300172: 2D_Woman_Sweater 6
+    2300174: 2D_Woman_Sweater 7
+    2300176: 2D_Woman_Walking Away
+    2300178: 2D_Woman_Walking Away 1
+    2300180: 2D_Woman_Walking Away 2
+    2300182: 2D_Woman_Walking Away 3
+    2300184: 2D_Woman_Walking_Side
+    2300186: 2D_Woman_Walking_Side 1
+    2300188: 2D_Woman_Walking_Side 2
+    2300190: 2D_Woman_Walking_Side 3
+    2300192: Bryce
+    2300194: Bryce 1
+    2300196: Bryce 2
+    2300198: Bryce 3
+    2300200: crowd#1
+    2300202: crowd#1 1
+    2300204: Food Eater
+    2300206: Food Eater 1
+    2300208: Food Eater 2
+    2300210: Food Eater 3
+    2300212: Group 10
+    2300214: Group 111
+    2300216: Group 113
+    2300218: Group 12
+    2300220: Group 212
+    2300222: Group 214
+    2300224: Group 313
+    2300226: Group 315
+    2300228: man#1
+    2300230: man#1 1
+    2300232: man#1 2
+    2300234: man#1 3
+    2300236: Seb 2D
+    2300238: Seb 2D 1
+    2300240: Seb 2D 2
+    2300242: Seb 2D 3
+    2300244: ske102
+    2300246: ske102 1
+    2300248: ske102 2
+    2300250: ske102 3
+    2300252: ske1DB
+    2300254: ske1DB 1
+    2300256: ske1DB 2
+    2300258: ske1DB 3
+    2300260: ske1DC
+    2300262: ske1DC 1
+    2300264: ske1DC 2
+    2300266: ske1DC 3
+    2300268: ske1DD
+    2300270: ske1DD 1
+    2300272: ske1DD 2
+    2300274: ske1DD 3
+    2300276: ske1DE
+    2300278: ske1DE 1
+    2300280: ske1DE 2
+    2300282: ske1DE 3
+    2300284: ske1DF
+    2300286: ske1DF 1
+    2300288: ske1DF 2
+    2300290: ske1DF 3
+    2300292: ske1E0
+    2300294: ske1E0 1
+    2300296: ske1E0 2
+    2300298: ske1E0 3
+    2300300: ske1E1
+    2300302: ske1E1 1
+    2300304: ske1E1 2
+    2300306: ske1E1 3
+    2300308: ske1E3
+    2300310: ske1E3 1
+    2300312: ske1E3 2
+    2300314: ske1E3 3
+    2300316: ske1E4
+    2300318: ske1E4 1
+    2300320: ske1E4 2
+    2300322: ske1E4 3
+    2300324: ske1E6
+    2300326: ske1E6 1
+    2300328: ske1E6 2
+    2300330: ske1E6 3
+    2300332: ske1E8
+    2300334: ske1E8 1
+    2300336: ske1E8 2
+    2300338: ske1E8 3
+    2300340: ske1EA
+    2300342: ske1EA 1
+    2300344: ske1EA 2
+    2300346: ske1EA 3
+    2300348: Sophie
+    2300350: tommy
+    2300352: tommy 1
+    2300354: tommy 2
+    2300356: tommy 3
+    2300358: Woman_1
+    2300360: Woman_1 1
+    2300362: Woman_1 2
+    2300364: Woman_1 3
+    2300366: Woman_2
+    2300368: Woman_2 1
+    2300370: Woman_2 2
+    2300372: Woman_2 3
+    3300000: 2D_Girl_Teen_Coat
+    3300002: 2D_Girl_Teen_Coat 1
+    3300004: 2D_Girl_Teen_Coat 2
+    3300006: 2D_Girl_Teen_Coat 3
+    3300008: 2D_Girl_Teen_Shorts
+    3300010: 2D_Girl_Teen_Shorts 1
+    3300012: 2D_Girl_Teen_Shorts 2
+    3300014: 2D_Girl_Teen_Shorts 3
+    3300016: 2D_Girl_Teen_Waiting
+    3300018: 2D_Girl_Teen_Waiting 1
+    3300020: 2D_Girl_Teen_Waiting 2
+    3300022: 2D_Girl_Teen_Waiting 3
+    3300024: 2D_Man_Backpack
+    3300026: 2D_Man_Backpack 1
+    3300028: 2D_Man_Backpack 2
+    3300030: 2D_Man_Backpack 3
+    3300032: 2D_Man_BaseballCap
+    3300034: 2D_Man_BaseballCap 1
+    3300036: 2D_Man_BaseballCap 2
+    3300038: 2D_Man_BaseballCap 3
+    3300040: 2D_Man_Blazer
+    3300042: 2D_Man_Blazer 1
+    3300044: 2D_Man_Blazer 2
+    3300046: 2D_Man_Blazer 3
+    3300048: 2D_Man_Casual
+    3300050: 2D_Man_Casual 1
+    3300052: 2D_Man_Casual 2
+    3300054: 2D_Man_Casual 3
+    3300056: 2D_Man_Pointing_Chris
+    3300058: 2D_Man_Pointing_Chris 1
+    3300060: 2D_Man_Pointing_Chris 2
+    3300062: 2D_Man_Pointing_Chris 3
+    3300064: 2D_Man_Skateboard
+    3300066: 2D_Man_Skateboard 1
+    3300068: 2D_Man_Skateboard 2
+    3300070: 2D_Man_Skateboard 3
+    3300072: 2D_Man_Suit
+    3300074: 2D_Man_Suit 1
+    3300076: 2D_Man_Suit 2
+    3300078: 2D_Man_Suit 3
+    3300080: 2D_Man_Suit_Barefoot
+    3300082: 2D_Man_Suit_Barefoot 1
+    3300084: 2D_Man_Suit_Barefoot 2
+    3300086: 2D_Man_Suit_Barefoot 3
+    3300088: 2D_Man_Suit_Barefoot#1
+    3300090: 2D_Man_Suit_Barefoot#1 1
+    3300092: 2D_Man_Suit_Barefoot#1 2
+    3300094: 2D_Man_Suit_Barefoot#1 3
+    3300096: 2D_Man_Suit_Looking Back
+    3300098: 2D_Man_Suit_Looking Back 1
+    3300100: 2D_Man_Suit_Looking Back 2
+    3300102: 2D_Man_Suit_Looking Back 3
+    3300104: 2D_Man_Walking_Dusty
+    3300106: 2D_Man_Walking_Dusty 1
+    3300108: 2D_Man_Walking_Dusty 2
+    3300110: 2D_Man_Walking_Dusty 3
+    3300112: 2D_Man_Walking_Dusty#1
+    3300114: 2D_Man_Walking_Dusty#1 1
+    3300116: 2D_Man_Walking_Dusty#1 2
+    3300118: 2D_Man_Walking_Dusty#1 3
+    3300120: 2D_Man_Walking_Side
+    3300122: 2D_Man_Walking_Side 1
+    3300124: 2D_Man_Walking_Side 2
+    3300126: 2D_Man_Walking_Side 3
+    3300128: 2D_Woman+Child
+    3300130: 2D_Woman+Child 1
+    3300132: 2D_Woman+Child 2
+    3300134: 2D_Woman+Child 3
+    3300136: 2D_Woman_Front
+    3300138: 2D_Woman_Front 1
+    3300140: 2D_Woman_Front 2
+    3300142: 2D_Woman_Front 3
+    3300144: 2D_Woman_Gown_Evening
+    3300146: 2D_Woman_Gown_Evening 1
+    3300148: 2D_Woman_Gown_Evening 2
+    3300150: 2D_Woman_Gown_Evening 3
+    3300152: 2D_Woman_Handbag
+    3300154: 2D_Woman_Handbag 1
+    3300156: 2D_Woman_Handbag 2
+    3300158: 2D_Woman_Handbag 3
+    3300160: 2D_Woman_Sweater
+    3300162: 2D_Woman_Sweater 1
+    3300164: 2D_Woman_Sweater 2
+    3300166: 2D_Woman_Sweater 3
+    3300168: 2D_Woman_Sweater 4
+    3300170: 2D_Woman_Sweater 5
+    3300172: 2D_Woman_Sweater 6
+    3300174: 2D_Woman_Sweater 7
+    3300176: 2D_Woman_Walking Away
+    3300178: 2D_Woman_Walking Away 1
+    3300180: 2D_Woman_Walking Away 2
+    3300182: 2D_Woman_Walking Away 3
+    3300184: 2D_Woman_Walking_Side
+    3300186: 2D_Woman_Walking_Side 1
+    3300188: 2D_Woman_Walking_Side 2
+    3300190: 2D_Woman_Walking_Side 3
+    3300192: Bryce
+    3300194: Bryce 1
+    3300196: Bryce 2
+    3300198: Bryce 3
+    3300200: crowd#1
+    3300202: crowd#1 1
+    3300204: Food Eater
+    3300206: Food Eater 1
+    3300208: Food Eater 2
+    3300210: Food Eater 3
+    3300212: Group 10
+    3300214: Group 111
+    3300216: Group 113
+    3300218: Group 12
+    3300220: Group 212
+    3300222: Group 214
+    3300224: Group 313
+    3300226: Group 315
+    3300228: man#1
+    3300230: man#1 1
+    3300232: man#1 2
+    3300234: man#1 3
+    3300236: Seb 2D
+    3300238: Seb 2D 1
+    3300240: Seb 2D 2
+    3300242: Seb 2D 3
+    3300244: ske102
+    3300246: ske102 1
+    3300248: ske102 2
+    3300250: ske102 3
+    3300252: ske1DB
+    3300254: ske1DB 1
+    3300256: ske1DB 2
+    3300258: ske1DB 3
+    3300260: ske1DC
+    3300262: ske1DC 1
+    3300264: ske1DC 2
+    3300266: ske1DC 3
+    3300268: ske1DD
+    3300270: ske1DD 1
+    3300272: ske1DD 2
+    3300274: ske1DD 3
+    3300276: ske1DE
+    3300278: ske1DE 1
+    3300280: ske1DE 2
+    3300282: ske1DE 3
+    3300284: ske1DF
+    3300286: ske1DF 1
+    3300288: ske1DF 2
+    3300290: ske1DF 3
+    3300292: ske1E0
+    3300294: ske1E0 1
+    3300296: ske1E0 2
+    3300298: ske1E0 3
+    3300300: ske1E1
+    3300302: ske1E1 1
+    3300304: ske1E1 2
+    3300306: ske1E1 3
+    3300308: ske1E3
+    3300310: ske1E3 1
+    3300312: ske1E3 2
+    3300314: ske1E3 3
+    3300316: ske1E4
+    3300318: ske1E4 1
+    3300320: ske1E4 2
+    3300322: ske1E4 3
+    3300324: ske1E6
+    3300326: ske1E6 1
+    3300328: ske1E6 2
+    3300330: ske1E6 3
+    3300332: ske1E8
+    3300334: ske1E8 1
+    3300336: ske1E8 2
+    3300338: ske1E8 3
+    3300340: ske1EA
+    3300342: ske1EA 1
+    3300344: ske1EA 2
+    3300346: ske1EA 3
+    3300348: Sophie
+    3300350: tommy
+    3300352: tommy 1
+    3300354: tommy 2
+    3300356: tommy 3
+    3300358: Woman_1
+    3300360: Woman_1 1
+    3300362: Woman_1 2
+    3300364: Woman_1 3
+    3300366: Woman_2
+    3300368: Woman_2 1
+    3300370: Woman_2 2
+    3300372: Woman_2 3
+    4300000: Mesh Sophie
+    4300002: Mesh 2D_Man_Suit_Barefoot
+    4300004: Mesh 2D_Man_Walking_Dusty
+    4300006: Mesh Group 10
+    4300008: Mesh 2D_Man_Backpack
+    4300010: Mesh 2D_Woman+Child
+    4300012: Mesh 2D_Woman_Sweater
+    4300014: Mesh 2D_Man_Suit
+    4300016: Mesh 2D_Man_Skateboard
+    4300018: Mesh 2D_Man_BaseballCap
+    4300020: Mesh 2D_Woman_Walking Away
+    4300022: Mesh ske102
+    4300024: Mesh Seb 2D
+    4300026: Mesh ske1DB
+    4300028: Mesh ske1DC
+    4300030: Mesh ske1DD
+    4300032: Mesh ske1DE
+    4300034: Mesh ske1DF
+    4300036: Mesh ske1E1
+    4300038: Mesh Food Eater
+    4300040: Mesh ske1E3
+    4300042: Mesh tommy
+    4300044: Mesh ske1E8
+    4300046: Mesh ske1EA
+    4300048: Mesh man#1
+    4300050: Mesh 2D_Man_Blazer
+    4300052: Mesh 2D_Girl_Teen_Coat
+    4300054: Mesh 2D_Man_Casual
+    4300056: Mesh 2D_Girl_Teen_Shorts
+    4300058: Mesh 2D_Girl_Teen_Waiting
+    4300060: Mesh 2D_Man_Suit_Looking Back
+    4300062: Mesh 2D_Man_Suit_Barefoot#1
+    4300064: Mesh 2D_Man_Pointing_Chris
+    4300066: Mesh Woman_1
+    4300068: Mesh Woman_2
+    4300070: Mesh Bryce
+    4300072: Mesh 2D_Woman_Front
+    4300074: Mesh 2D_Man_Walking_Side
+    4300076: Mesh 2D_Woman_Walking_Side
+    4300078: Mesh 2D_Woman_Handbag
+    4300080: Mesh 2D_Man_Walking_Dusty#1
+    4300082: Mesh ske1E0
+    4300084: Mesh ske1E4
+    4300086: Mesh ske1E6
+    4300088: Mesh 2D_Woman_Gown_Evening
+    4300090: Mesh crowd#1
+    6400000: 2D_Girl_Teen_Coat
+    6400002: 2D_Girl_Teen_Coat 1
+    6400004: 2D_Girl_Teen_Coat 2
+    6400006: 2D_Girl_Teen_Coat 3
+    6400008: 2D_Girl_Teen_Shorts
+    6400010: 2D_Girl_Teen_Shorts 1
+    6400012: 2D_Girl_Teen_Shorts 2
+    6400014: 2D_Girl_Teen_Shorts 3
+    6400016: 2D_Girl_Teen_Waiting
+    6400018: 2D_Girl_Teen_Waiting 1
+    6400020: 2D_Girl_Teen_Waiting 2
+    6400022: 2D_Girl_Teen_Waiting 3
+    6400024: 2D_Man_Backpack
+    6400026: 2D_Man_Backpack 1
+    6400028: 2D_Man_Backpack 2
+    6400030: 2D_Man_Backpack 3
+    6400032: 2D_Man_BaseballCap
+    6400034: 2D_Man_BaseballCap 1
+    6400036: 2D_Man_BaseballCap 2
+    6400038: 2D_Man_BaseballCap 3
+    6400040: 2D_Man_Blazer
+    6400042: 2D_Man_Blazer 1
+    6400044: 2D_Man_Blazer 2
+    6400046: 2D_Man_Blazer 3
+    6400048: 2D_Man_Casual
+    6400050: 2D_Man_Casual 1
+    6400052: 2D_Man_Casual 2
+    6400054: 2D_Man_Casual 3
+    6400056: 2D_Man_Pointing_Chris
+    6400058: 2D_Man_Pointing_Chris 1
+    6400060: 2D_Man_Pointing_Chris 2
+    6400062: 2D_Man_Pointing_Chris 3
+    6400064: 2D_Man_Skateboard
+    6400066: 2D_Man_Skateboard 1
+    6400068: 2D_Man_Skateboard 2
+    6400070: 2D_Man_Skateboard 3
+    6400072: 2D_Man_Suit
+    6400074: 2D_Man_Suit 1
+    6400076: 2D_Man_Suit 2
+    6400078: 2D_Man_Suit 3
+    6400080: 2D_Man_Suit_Barefoot
+    6400082: 2D_Man_Suit_Barefoot 1
+    6400084: 2D_Man_Suit_Barefoot 2
+    6400086: 2D_Man_Suit_Barefoot 3
+    6400088: 2D_Man_Suit_Barefoot#1
+    6400090: 2D_Man_Suit_Barefoot#1 1
+    6400092: 2D_Man_Suit_Barefoot#1 2
+    6400094: 2D_Man_Suit_Barefoot#1 3
+    6400096: 2D_Man_Suit_Looking Back
+    6400098: 2D_Man_Suit_Looking Back 1
+    6400100: 2D_Man_Suit_Looking Back 2
+    6400102: 2D_Man_Suit_Looking Back 3
+    6400104: 2D_Man_Walking_Dusty
+    6400106: 2D_Man_Walking_Dusty 1
+    6400108: 2D_Man_Walking_Dusty 2
+    6400110: 2D_Man_Walking_Dusty 3
+    6400112: 2D_Man_Walking_Dusty#1
+    6400114: 2D_Man_Walking_Dusty#1 1
+    6400116: 2D_Man_Walking_Dusty#1 2
+    6400118: 2D_Man_Walking_Dusty#1 3
+    6400120: 2D_Man_Walking_Side
+    6400122: 2D_Man_Walking_Side 1
+    6400124: 2D_Man_Walking_Side 2
+    6400126: 2D_Man_Walking_Side 3
+    6400128: 2D_Woman+Child
+    6400130: 2D_Woman+Child 1
+    6400132: 2D_Woman+Child 2
+    6400134: 2D_Woman+Child 3
+    6400136: 2D_Woman_Front
+    6400138: 2D_Woman_Front 1
+    6400140: 2D_Woman_Front 2
+    6400142: 2D_Woman_Front 3
+    6400144: 2D_Woman_Gown_Evening
+    6400146: 2D_Woman_Gown_Evening 1
+    6400148: 2D_Woman_Gown_Evening 2
+    6400150: 2D_Woman_Gown_Evening 3
+    6400152: 2D_Woman_Handbag
+    6400154: 2D_Woman_Handbag 1
+    6400156: 2D_Woman_Handbag 2
+    6400158: 2D_Woman_Handbag 3
+    6400160: 2D_Woman_Sweater
+    6400162: 2D_Woman_Sweater 1
+    6400164: 2D_Woman_Sweater 2
+    6400166: 2D_Woman_Sweater 3
+    6400168: 2D_Woman_Sweater 4
+    6400170: 2D_Woman_Sweater 5
+    6400172: 2D_Woman_Sweater 6
+    6400174: 2D_Woman_Sweater 7
+    6400176: 2D_Woman_Walking Away
+    6400178: 2D_Woman_Walking Away 1
+    6400180: 2D_Woman_Walking Away 2
+    6400182: 2D_Woman_Walking Away 3
+    6400184: 2D_Woman_Walking_Side
+    6400186: 2D_Woman_Walking_Side 1
+    6400188: 2D_Woman_Walking_Side 2
+    6400190: 2D_Woman_Walking_Side 3
+    6400192: Bryce
+    6400194: Bryce 1
+    6400196: Bryce 2
+    6400198: Bryce 3
+    6400200: crowd#1
+    6400202: crowd#1 1
+    6400204: Food Eater
+    6400206: Food Eater 1
+    6400208: Food Eater 2
+    6400210: Food Eater 3
+    6400212: Group 10
+    6400214: Group 111
+    6400216: Group 113
+    6400218: Group 12
+    6400220: Group 212
+    6400222: Group 214
+    6400224: Group 313
+    6400226: Group 315
+    6400228: man#1
+    6400230: man#1 1
+    6400232: man#1 2
+    6400234: man#1 3
+    6400236: Seb 2D
+    6400238: Seb 2D 1
+    6400240: Seb 2D 2
+    6400242: Seb 2D 3
+    6400244: ske102
+    6400246: ske102 1
+    6400248: ske102 2
+    6400250: ske102 3
+    6400252: ske1DB
+    6400254: ske1DB 1
+    6400256: ske1DB 2
+    6400258: ske1DB 3
+    6400260: ske1DC
+    6400262: ske1DC 1
+    6400264: ske1DC 2
+    6400266: ske1DC 3
+    6400268: ske1DD
+    6400270: ske1DD 1
+    6400272: ske1DD 2
+    6400274: ske1DD 3
+    6400276: ske1DE
+    6400278: ske1DE 1
+    6400280: ske1DE 2
+    6400282: ske1DE 3
+    6400284: ske1DF
+    6400286: ske1DF 1
+    6400288: ske1DF 2
+    6400290: ske1DF 3
+    6400292: ske1E0
+    6400294: ske1E0 1
+    6400296: ske1E0 2
+    6400298: ske1E0 3
+    6400300: ske1E1
+    6400302: ske1E1 1
+    6400304: ske1E1 2
+    6400306: ske1E1 3
+    6400308: ske1E3
+    6400310: ske1E3 1
+    6400312: ske1E3 2
+    6400314: ske1E3 3
+    6400316: ske1E4
+    6400318: ske1E4 1
+    6400320: ske1E4 2
+    6400322: ske1E4 3
+    6400324: ske1E6
+    6400326: ske1E6 1
+    6400328: ske1E6 2
+    6400330: ske1E6 3
+    6400332: ske1E8
+    6400334: ske1E8 1
+    6400336: ske1E8 2
+    6400338: ske1E8 3
+    6400340: ske1EA
+    6400342: ske1EA 1
+    6400344: ske1EA 2
+    6400346: ske1EA 3
+    6400348: Sophie
+    6400350: tommy
+    6400352: tommy 1
+    6400354: tommy 2
+    6400356: tommy 3
+    6400358: Woman_1
+    6400360: Woman_1 1
+    6400362: Woman_1 2
+    6400364: Woman_1 3
+    6400366: Woman_2
+    6400368: Woman_2 1
+    6400370: Woman_2 2
+    6400372: Woman_2 3
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

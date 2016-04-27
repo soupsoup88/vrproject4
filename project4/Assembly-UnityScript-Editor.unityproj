@@ -55,11 +55,13 @@
      <Compile Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Standard Assets\Editor\Image Effects\TonemappingEditor.js" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
+     <None Include="Assets\Cardboard\Resources\SkyboxMesh.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
      <None Include="Assets\Dog Pack\Chart\Model\dogMonster.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader" />
+     <None Include="Assets\Cardboard\Distortion\CardboardDistortion.cginc" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\GlowConeTap.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\SunShaftsComposite.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurves.shader" />
@@ -76,6 +78,7 @@
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\Projectors\Guidelines.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
+     <None Include="Assets\Cardboard\Resources\UnlitTexture.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\GlowCompose.shader" />
      <None Include="Assets\Dog Pack\SheepDog\Model\SheepDogLP.txt" />
      <None Include="Assets\Dog Pack\Dog-Dalmatian\Models\Dalmatian.txt" />
@@ -112,6 +115,7 @@
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\CreaseApply.shader" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
@@ -146,6 +150,7 @@
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\VignettingShader.shader" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <None Include="Assets\Dog Pack\Wolf\Model\Wolf.txt" />
+     <None Include="Assets\Cardboard\Resources\UI\CardboardReticleShader.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader" />
@@ -160,6 +165,7 @@
      <None Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\WaterInclude.cginc" />
      <None Include="Assets\OnQ Nature Pack 2 v2\Resources Demo\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-Water4.shader" />
      <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
+     <None Include="Assets\Cardboard\Resources\SolidColor.shader" />
      <None Include="Assets\Dog Pack\SheepDog\Model\SheepDog.txt" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\SimpleClear.shader" />
      <None Include="Assets\Su Pu\car\archibase.net.txt" />

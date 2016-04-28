@@ -25,10 +25,9 @@ public class playaudio : MonoBehaviour, IPointerClickHandler {
 		audio1.Stop ();
 		audio2.Stop ();
 		animator.SetBool ("yes",true);
-		animator.SetBool ("no",false);
+	
+
 		StartCoroutine(Example());
-
-
 
 	}
 

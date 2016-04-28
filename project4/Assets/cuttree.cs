@@ -8,8 +8,12 @@ public class cuttree : MonoBehaviour {
 	// Use this for initialization
 	void OnTriggerEnter(Collider other) 
 	{
-		audio.Play ();
+		if (other.gameObject.CompareTag ("camera"))
+		{
+			audio.Play ();
 		
+
+		}
 	}
 
 	

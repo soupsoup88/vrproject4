@@ -137,11 +137,16 @@
      <Compile Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
      <Compile Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
      <Compile Include="Assets\Su Pu\SkySphere_V1\Examples\Gui.cs" />
+     <Compile Include="Assets\Yuzhu\plauaudiono.cs" />
+     <Compile Include="Assets\bujian.cs" />
      <Compile Include="Assets\clickcomputer.cs" />
+     <Compile Include="Assets\comehere.cs" />
      <Compile Include="Assets\computerlast.cs" />
      <Compile Include="Assets\cuttree.cs" />
      <Compile Include="Assets\granny.cs" />
+     <Compile Include="Assets\makesound.cs" />
      <Compile Include="Assets\playaudio.cs" />
+     <Compile Include="Assets\secretary.cs" />
      <Compile Include="Assets\treefall.cs" />
      <Compile Include="Assets\triggertalk.cs" />
      <None Include="Assets\Su Pu\NatureStarterKit2\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />

@@ -3,6 +3,7 @@ using System.Collections;
 
 public class granny : MonoBehaviour {
 	public Animator animator;
+	public AudioSource audio;
 	// Use this for initialization
 	void Start () {
 	
@@ -14,6 +15,7 @@ public class granny : MonoBehaviour {
 		{
 			print("detected");
 			animator.SetBool ("nanny", true);
+			audio.Play ();
 
 		}
 	}

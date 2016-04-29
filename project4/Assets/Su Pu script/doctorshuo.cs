@@ -36,7 +36,7 @@ public class doctorshuo : MonoBehaviour {
 
 		dist =Vector3.Distance(transform.position,target1.position);
 		print (dist);
-		if ((dist > 5f))
+		if ((dist > 4f))
 		{
 			docteranimator.SetBool ("find", true);
 			docteranimation.Play ("walk");
@@ -49,7 +49,7 @@ public class doctorshuo : MonoBehaviour {
 			print (dist);
 		} 
 
-		if(!(dist>4f))
+		if(!(dist>3f))
 		{
 			print (dist);
 			docteranimator.SetBool ("talk", true);

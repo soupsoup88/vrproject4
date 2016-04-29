@@ -17,7 +17,7 @@ public class comehere : MonoBehaviour, IPointerClickHandler {
 	{
 		print ("click");
 		a = !a;
-		transform.position = new Vector3 (sphere.transform.position.x - 1.3f, sphere.transform.position.y - 1.3f, sphere.transform.position.z + 4.5f);
+		transform.position = new Vector3 (sphere.transform.position.x + 1.3f, sphere.transform.position.y - 1.5f, sphere.transform.position.z + 4.5f);
 		transform.localRotation = Quaternion.Euler (new Vector3 (0.0f, -140.0f, 0.0f));
 	}
 

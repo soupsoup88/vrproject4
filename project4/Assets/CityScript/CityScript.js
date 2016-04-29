@@ -8,6 +8,7 @@ var car : GameObject;
 var person : GameObject;
 var crowd : GameObject;
 var village : GameObject;
+var skybox : Material;
 
 function Start () {
 	print(PlayerPrefs.GetInt("city"));
@@ -37,6 +38,7 @@ function Start () {
 			developingTown.SetActive(false);
 			developedTown.SetActive(true);
 			newTown.SetActive(false);
+			RenderSettings.skybox = skybox;
 			PlayerPrefs.SetInt("city",0);
 			break;
 		case 3:
@@ -46,6 +48,7 @@ function Start () {
 			newTown.SetActive(false);
 			crowd.SetActive(true);
 			village.SetActive(false);
+			RenderSettings.skybox = skybox;
 			var teleportPosition1 : Vector3;
 			var cameraPosition1 : Vector3;
 			cameraPosition1 = Vector3(0, 1.2, 0);

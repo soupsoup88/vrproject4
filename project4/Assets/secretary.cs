@@ -37,7 +37,7 @@ public class secretary : MonoBehaviour {
 		}
 
 		dist =Vector3.Distance(transform.position,target1.position);
-		if ((dist > 4f))
+		if ((dist > 5f))
 		{
 			
 			secretaryanimation.Play ("walk");
@@ -49,7 +49,7 @@ public class secretary : MonoBehaviour {
 			transform.position = Vector3.MoveTowards(mysecretary, mycamera, step1);
 		} 
 
-		if(!(dist>3f))
+		if(!(dist>4f))
 		{
 			secretaryanimator.SetBool ("talk", true);
 
@@ -58,6 +58,7 @@ public class secretary : MonoBehaviour {
 
 				secretary1.Play ();
 				choice.SetActive (true);
+				secretaryanimator.SetBool ("stop", true);
 				a = 1;
 			}
 

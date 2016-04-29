@@ -15,6 +15,8 @@ public class littlegirl : MonoBehaviour {
 			public float step;
 			public AudioSource crytalk;
 			public AudioSource crying; 
+			public AudioSource secretary;		
+
 			float dist;
 			int a = 0;
 			int b = 0;
@@ -61,7 +63,7 @@ void Update() {
 			}
 
 			if ((!crytalk.isPlaying) && (a == 1)&&(b == 0)) {
-				crying.Play ();
+				secretary.Play ();
 				b = 1;
 			}
 				print ("I find you");

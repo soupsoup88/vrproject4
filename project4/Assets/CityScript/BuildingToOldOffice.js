@@ -12,6 +12,7 @@ function Update () {
 
 function driveThroughOldTown()
 {
+	gameObject.SendMessage("OnVRClick", null, SendMessageOptions.DontRequireReceiver);
 	gameObject.GetComponent.<BoxCollider>().enabled = false;
 	var teleportPosition : Vector3;
 	var cameraPosition : Vector3;

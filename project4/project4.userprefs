@@ -1,9 +1,17 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Su Pu script/littlegirl.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CityScript/BuildingToOldOffice.js">
     <Files>
-      <File FileName="Assets/Su Pu script/littlegirl.cs" Line="42" Column="9" />
-      <File FileName="Assets/OnQ Nature Pack 2 v2/Resources Demo/Standard Assets/Water (Pro Only)/Water4/Sources/Scripts/PlanarReflection.cs" Line="1" Column="1" />
+      <File FileName="Assets/comehere.cs" Line="21" Column="53" />
+      <File FileName="Assets/CityScript/CityScript.js" Line="31" Column="26" />
+      <File FileName="Assets/cuttree.cs" Line="1" Column="1" />
+      <File FileName="Assets/clickcomputer.cs" Line="1" Column="1" />
+      <File FileName="Assets/treefall.cs" Line="1" Column="1" />
+      <File FileName="Assets/granny.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets/CityScript/BuildingToOldOffice.js" Line="35" Column="2" />
+      <File FileName="Assets/CityScript/FactoryPlan.js" Line="1" Column="1" />
+      <File FileName="Assets/Cardboard/Scripts/StereoController.cs" Line="356" Column="46" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
